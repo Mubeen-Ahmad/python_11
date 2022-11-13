@@ -146,7 +146,6 @@
 <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/2_Tokens_Variables_Keywords_Identifers_Literals/3_variables.ipynb">Variables</a>
 </details>
 
-<details>
   
 
 
