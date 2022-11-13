@@ -134,7 +134,21 @@
 - ### C is the Static Type They are follow the rule of Weak Type
 </details>
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<details>
+  
+<summary> <h2>Tokens, Identifers, Keywords, Variables</h2></summary>
+
+<a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/2_Tokens_Variables_Keywords_Identifers_Literals/1_Tokens_(Theory).ipynb
+">What is Tokens</a>
+
+<a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/2_Tokens_Variables_Keywords_Identifers_Literals/2_Identifers_and_keywords.ipynb">Identifers and Keywords</a>
+
+<a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/2_Tokens_Variables_Keywords_Identifers_Literals/3_variables.ipynb">Variables</a>
+</details>
+
+<details>
+  
+
 
 
 
