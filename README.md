@@ -134,6 +134,7 @@
 - ### C is the Static Type They are follow the rule of Weak Type
 </details>
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 
 
