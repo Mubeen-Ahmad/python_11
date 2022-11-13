@@ -120,7 +120,7 @@
 <details>
   
 <summary> <h2>Strong Typed Weak Type Dynamic and Static?</h2></summary>
- 
+ <img src="images/diff.png" width="128"/>
   - ### In Static Binding Once we declare the variable than we cant not change the data Type and value of same variable
   
 </details>
