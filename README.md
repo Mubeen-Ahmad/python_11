@@ -120,9 +120,13 @@
 <details>
   
 <summary> <h2>Strong Typed Weak Type Dynamic and Static?</h2></summary>
- <img src="images/diff.png" />
-  - ### In Static Binding Once we declare the variable than we cant not change the data Type and value of same variable
-  
+  - ###  Some languages are Static they follow the rule of  Weak Type
+  - ###  Some languages are Dynamic they follow the rule of Strong Type
+  - ### So Clear this Concept With this image
+      - ### <img src="images/diff.png" />
+      - ### e.g python is the Dynamic Type They are follow the rule of Strong Type
+      - ### JavaScript is the Dynamic Type They are follow the rule of  Weak Type
+      - ### C is the Static Type They are follow the rule of Weak Type
 </details>
 
 
