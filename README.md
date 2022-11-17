@@ -172,11 +172,11 @@
 <details>
   
 <summary> <h3>Sequential Data Type</h3></summary>
-• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/1_strings.ipynb">Strings</a>
-
-• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/2_Strings_Methods.ipynb">Strings Methods</a>
-
+- ### Strings
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/1_strings.ipynb">Strings</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/2_Strings_Methods.ipynb">Strings Methods</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/3_Working_of_string%20_in_memory.ipynb">Strings Memory Allocation</a>
+
 </details>
 
 </details>
