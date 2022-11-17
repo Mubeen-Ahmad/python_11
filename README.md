@@ -148,6 +148,41 @@
 <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/2_Tokens_Variables_Keywords_Identifers_Literals/3_variables.ipynb">Variables</a>
 </details>
 
+<details>
+<summary> <h2>Data Types</h2></summary>
+
+- ### There are several built-in data types in Python. Although, Python doesn't require data types to be defined explicitly during variable declarations type errors are likely to occur if the knowledge of data types and their compatibility with each other are neglected. 
+
+- ### Python provides type() and isinstance() functions to check the type of these variables. These data types can be grouped into the following categories
+
+- #### 1. **None Type:** **None** keywork represents the null values in Python. Boolean equality operation can be performed using these NoneType objects.
+
+- #### 2. **Numeric Type:** There are three distinct numeric types - `integers`, `floating-point numbers` and `complex numbers`. Additionally, `booleans` are a sub-type of integers.
+
+- #### 3. **Sequence Types:** According to Python Docs, there are three basic Sequence Types - `string` `lists`, `tuples`, and `range` objects. Sequence types have the `in` and `not in` operators defined for their traversing their elements. These operators share the same priority as the comparison operations.
+
+- #### 4. **Mapping Types:** A mapping object can map hashable values to random objects in Python. Mappings objects are mutable and there is currently only one standard mapping type, the `dictionary`.
+
+- #### 5. **Set Types:** Currently, Python has two built-in set types - `set` and `frozenset`. `set` type is mutable and supports methods like *add()* and *remove()*. `frozenset` type is immutable and can't be modified after creation.
+
+- #### 6. **Callable Types:** Callable types are the types to which function call can be applied. They can be **user-defined functions, instance methods, generator functions**, and some other **built-in functions, methods** and **classes**.
+
+---
+
+<details>
+  
+<summary> <h3>Sequential Data Type</h3></summary>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/1_strings.ipynb">Strings</a>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/2_Strings_Methods.ipynb">Strings Methods</a>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/3_Working_of_string%20_in_memory.ipynb">Strings Memory Allocation</a>
+</details>
+
+</details>
+
+
+
+
+
 
 
 
