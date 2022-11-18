@@ -179,6 +179,22 @@
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/3_String_Interning_in_Memory.ipynb">Strings Interning in Memory</a>
 
 </details>
+---
+<details>
+  <summary> <h3>Numeric Data Type</h3></summary>
+
+<h4>Numeric Data Types</h4>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/3_Numbers/1_Numbers_(int).ipynb">Integers</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/3_Numbers/2_Float.ipynb">Float</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/3_Numbers/4_Boolean.ipynb">Boolean</a><br><br>
+<h4>Type Conversion</h4>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/3_Numbers/5_Type_Conversion.ipynb">Type Conversion</a><br><br>
+<h4>Math Module</h4>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/3_Numbers/6_math_library.ipynb">Math module</a><br><br>
+<h4>Number Interning</h4>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/3_Numbers/7_Numbers_Interning.ipynb">Number Interning</a><br><br>
+
+
 
 </details>
 
