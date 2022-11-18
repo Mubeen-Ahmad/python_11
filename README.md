@@ -176,7 +176,10 @@
 
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/1_strings.ipynb">Strings</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/2_Strings_Methods.ipynb">Strings Methods</a><br>
-• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/3_String_Interning_in_Memory.ipynb">Strings Interning in Memory</a>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/3_String_Interning_in_Memory.ipynb">Strings Interning in Memory</a><br><br>
+
+<h4>List</h4>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/5_List/1_list.ipynb">List</a>
 
 </details>
 
