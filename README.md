@@ -179,7 +179,11 @@
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/4_Strings/3_String_Interning_in_Memory.ipynb">Strings Interning in Memory</a><br><br>
 
 <h4>List</h4>
-• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/5_List/1_list.ipynb">List</a>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/5_List/1_list.ipynb">List</a><br><br>
+
+<h4>Tuple</h4>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/6_Tuple/1_Tuple.ipynb">Tuple</a>
+
 
 </details>
 
