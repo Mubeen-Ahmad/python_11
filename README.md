@@ -187,6 +187,18 @@
 
 </details>
 
+
+<details>
+  
+<summary> <h3>Sets Type</h3></summary>
+<h4>Set</h4>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/7_Set/1_set.ipynb">Set</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/7_Set/2_sets_methods.ipynb">Set Methods</a><br>
+
+</details>
+
+
+
 <details>
   <summary> <h3>Numeric Data Type</h3></summary>
 
