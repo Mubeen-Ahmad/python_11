@@ -194,6 +194,7 @@
 <h4>Set</h4>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/7_Set/1_set.ipynb">Set</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/7_Set/2_sets_methods.ipynb">Set Methods</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/7_Set/3_frozen_set.ipynb">Frozensets</a>
 
 </details>
 
