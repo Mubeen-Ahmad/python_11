@@ -227,19 +227,7 @@
 
 </details>
 
-
-<details>
-  <summary> <h3>Operators</h3></summary>
-
-• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/3_Numbers/7_Numbers_Interning.ipynb">Arithmetic</a><br>
-• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/3_Numbers/7_Numbers_Interning.ipynb">Assignment</a><br>
-
-
-</details>
-
-
-
-
+sd
 
 
 
