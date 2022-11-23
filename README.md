@@ -203,10 +203,6 @@
 
 <details>
   <summary> <h3>Mapping Type</h3></summary>
-
-<h4>What is Mapping Type</h4>
-• <a href="#">Mapping</a><br><br>
-
 <h4>Dictionary</h4>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/8_Dictionary/1_dictionary.ipynb">Dictionary</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/8_Dictionary/2_dictionary_methods.ipynb">Dictionary Methods</a><br>
