@@ -234,11 +234,7 @@
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/1_Arithmetic.ipynb">Arithmetic</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/2_Assignment.ipynb">Assignment</a><br>
 
-
 </details>
-
-
-sd
 
 
 
