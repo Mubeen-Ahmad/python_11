@@ -229,7 +229,7 @@
 </details>
 
 <details>
-  <summary> <h3>Operators</h3></summary>
+  <summary> <h2>Operators</h2></summary>
 
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/1_Arithmetic.ipynb">Arithmetic</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/2_Assignment.ipynb">Assignment</a><br>
