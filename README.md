@@ -233,6 +233,10 @@
 
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/1_Arithmetic.ipynb">Arithmetic</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/2_Assignment.ipynb">Assignment</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/3_Logical.ipynb">Logical</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/4_Identity.ipynb">Identity</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/5_Membership.ipynb">Membership</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/6_Bitwise.ipynb">Bitwise</a><br>
 
 </details>
 
