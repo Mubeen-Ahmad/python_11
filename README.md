@@ -238,13 +238,14 @@
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/5_Membership.ipynb">Membership</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/6_Bitwise.ipynb">Bitwise</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/7_Assignment.ipynb">Assignment</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/9_Operators/8_Precedence_and_Associativity.ipynb">Precedence and Associativity</a><br>
 
 </details>
 
 
 <details>
   <summary> <h2>Conditional Statement</h2></summary>
-• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/10_Conditional_Statements/1_conditions_statements.ipynb">if_elif_else_match_case</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/10_Conditional_Statements/1_conditions_statements.ipynb	">if_elif_else_match_case</a><br>
 </details>
 
 
