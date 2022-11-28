@@ -245,7 +245,7 @@
 
 <details>
   <summary> <h2>Conditional Statement</h2></summary>
-• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/10_Conditional_Statements/1_conditions_statements.ipynb">if_elif_else_match_case</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/10_Conditional_Statements/1_conditions_statements.ipynb">Conditions Statements</a><br>
 </details>
 
 
