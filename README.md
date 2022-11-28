@@ -249,5 +249,15 @@
 </details>
 
 
+<details>
+  <summary> <h2>Loops</h2></summary>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/11_Loops/iterators.ipynb">Iterator VS Iterable</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/11_Loops/loops.ipynb">for and while loop</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/11_Loops/break_and_continue.ipynb">break continue and use of else in loop</a><br>
+</details>
+
+
+
+
 
 
