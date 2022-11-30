@@ -254,6 +254,8 @@
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/11_Loops/iterators.ipynb">Iterator VS Iterable</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/11_Loops/loops.ipynb">for and while loop</a><br>
 • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/11_Loops/break_and_continue.ipynb">break continue and use of else in loop</a><br>
+• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/11_Loops/loops_use_in_datatypes.ipynb">Use of Loops in DataTypes</a><br>
+
 </details>
 
 
