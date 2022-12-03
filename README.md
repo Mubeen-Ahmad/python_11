@@ -261,6 +261,7 @@
 <details>
   <summary> <h2>Callable Types</h2></summary>
     <details>
+    
     <summary> <h2>Functions</h2></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/1_function.ipynb">Functions</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/2_args_kwargs.ipynb">Args and Kwargs</a><br>
