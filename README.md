@@ -268,6 +268,8 @@
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/4_pass_by_value_or_refference.ipynb">Pass By Value or Refference ?</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/5_NameSpace_and_LEGB_rule.ipynb">Namespace and LEGB Rule</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/6_doc_string.ipynb">Doc String</a><br>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/7_lambda_(Anonmyous)_Function.ipynb">Lambda Anonmyous Function</a><br>
+
 
 
 
