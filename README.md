@@ -263,12 +263,17 @@
     <details>
     <summary> <h2>Functions</h2></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/1_function.ipynb">Functions</a><br>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/closer_Function.ipynb">Closer Function</a><br> 
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/2_args_kwargs.ipynb">Args and Kwargs</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/3_recursion.ipynb">Recursion</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/4_pass_by_value_or_refference.ipynb">Pass By Value or Refference ?</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/5_NameSpace_and_LEGB_rule.ipynb">Namespace and LEGB Rule</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/6_doc_string.ipynb">Doc String</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/7_lambda_(Anonmyous)_Function.ipynb">Lambda Anonmyous Function</a><br>
+    
+    <summary> <h2>Generators</h2></summary>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/13_Generators/Generator.ipynb">Generators</a><br>
+    
 
 
 
