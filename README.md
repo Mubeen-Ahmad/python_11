@@ -270,7 +270,6 @@
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/5_NameSpace_and_LEGB_rule.ipynb">Namespace and LEGB Rule</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/6_doc_string.ipynb">Doc String</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/7_lambda_(Anonmyous)_Function.ipynb">Lambda Anonmyous Function</a><br>
-    
     <summary> <h2>Generators</h2></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/13_Generators/Generator.ipynb">Generators</a><br>
     
