@@ -261,7 +261,7 @@
 <details>
   <summary> <h2>Callable Types</h2></summary>
     <details>
-    <summary> <h2>Functions</h2></summary>
+    <summary> <h3>Functions</h3></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/1_function.ipynb">Functions</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/closer_Function.ipynb">Closer Function</a><br> 
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/12_Functions/2_args_kwargs.ipynb">Args and Kwargs</a><br>
@@ -274,17 +274,21 @@
  </details>
  
  <details>
-     <summary> <h2>Generators</h2></summary>
+     <summary> <h3>Generators</h3></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/13_Generators/Generator.ipynb">Generators</a><br>
  </details>
 
  <details>
-     <summary> <h2>Decoractors</h2></summary>
+     <summary> <h3>Decoractors</h3></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Decoractors</a><br>
  </details>
-
-
 </details>
+
+ <details>
+     <summary> <h2>Comprehension</h2></summary>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/11_Loops/comprehension.ipynb">Comprehension</a><br>
+ </details>
+
 
 
 
