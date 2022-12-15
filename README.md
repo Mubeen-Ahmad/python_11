@@ -280,7 +280,7 @@
 
  <details>
      <summary> <h2>Decoractors</h2></summary>
-    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Generators</a><br>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Decoractors</a><br>
  </details>
 
 
