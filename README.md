@@ -278,6 +278,11 @@
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/13_Generators/Generator.ipynb">Generators</a><br>
  </details>
 
+ <details>
+     <summary> <h2>Decoractors</h2></summary>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Generators</a><br>
+ </details>
+
 
 </details>
 
