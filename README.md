@@ -288,9 +288,12 @@
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/1_class_and_object.ipynb">Class and Object</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/2_init_and_new_constructor.ipynb">Constructor (init and new)</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/3_class_attributes.ipynb">Class Attributes and Class Variables</a><br>	
-    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/4_Instance_Variables.ipynb">Instance Variables</a><br>	
-
-
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/4_Instance_Variables.ipynb">Instance Variables</a><br>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/5_Methods.ipynb">Methods and Difference between in Function and Method</a><br>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/6_Class_Method.ipynb">Class Method</a><br>	
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/7_instance_Method.ipynb">Instance Method</a><br>	
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/8_Static_Method.ipynb">Static Method</a><br>
+    
  </details>
  
  
