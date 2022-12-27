@@ -282,10 +282,9 @@
      <summary> <h3>Decoractors</h3></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Decoractors</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Understand Difference in @function VS function()() </a><br>
-
- </details>
+</details>
  
-	 <details>
+ <details>
      <summary> <h3>OOP</h3></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/1_class_and_object.ipynb">Class and Object</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/2_init_and_new_constructor.ipynb">Constructor (init and new)</a><br>
