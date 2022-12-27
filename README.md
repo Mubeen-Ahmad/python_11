@@ -281,6 +281,8 @@
  <details>
      <summary> <h3>Decoractors</h3></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Decoractors</a><br>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Understand Difference in @function VS function()()</a><br>
+
  </details>
  
 	 <details>
