@@ -282,6 +282,7 @@
      <summary> <h3>Decoractors</h3></summary>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Decoractors</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/difference_in_decoractor_and_function_call.ipynb">Understand Difference in @function VS function()() </a><br>
+    
 </details>
  
  <details>
@@ -294,6 +295,8 @@
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/6_Class_Method.ipynb">Class Method</a><br>	
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/7_instance_Method.ipynb">Instance Method</a><br>	
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/8_Static_Method.ipynb">Static Method</a><br>
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/14%20Decorators/decoractors.ipynb">Decoractors in Opp and __call__ Constructor</a><br>
+
     
  </details>
  
