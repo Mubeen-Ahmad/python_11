@@ -296,7 +296,7 @@
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/7_instance_Method.ipynb">Instance Method</a><br>	
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/8_Static_Method.ipynb">Static Method</a><br>
     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/9_Decoractors_in_OOP.ipynb">Decoractors in Opp and __call__ Constructor</a><br>
-    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/9_Decoractors_in_OOP.ipynb">@property Decoractor and Concept of getter , setter, and deleter </a><br>	
+    • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/15_OOP/10_property_decorator.ipynb">@property Decoractor and Concept of getter , setter, and deleter </a><br>	
 
     
  </details>
