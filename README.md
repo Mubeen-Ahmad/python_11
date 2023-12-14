@@ -450,3 +450,10 @@
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/18_pandas/Conversion%20Methods.ipynb">DataFrame Conversion Methods.ipynb</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/Python/18_pandas/Indexing%20and%20iteration%20Methods.ipynb">DataFrame Indexing and Iterations Methods.ipynb</a><br> -->
 </details>
+<details>
+     <summary> <h2>MySQL</h2></summary>
+     <details>
+     <summary> <h4>Basic Intro</h4></summary>
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/01%20Basic.ipynb">Basic</a><br>
+
+</details>
