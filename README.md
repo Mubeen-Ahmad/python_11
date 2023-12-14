@@ -453,7 +453,7 @@
 <details>
      <summary> <h2>MySQL</h2></summary>
      <details>
-     <summary> <h4>Basic Intro</h4></summary>
-     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/01%20Basic.ipynb">Basic</a><br>
+     <summary> <h4>Basic</h4></summary>
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/b1.ipynb">Short Introduction</a><br>
 
 </details>
