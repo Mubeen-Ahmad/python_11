@@ -1,0 +1,1961 @@
+brand_name,model,processor_brand,os,price,rating,num_cores,processor_speed,battery_capacity,fast_charging_available,fast_charging,ram_capacity,internal_memory,screen_size,refresh_rate,num_rear_cameras,num_front_cameras,primary_camera_rear,primary_camera_front,extended_memory_available,extended_upto,resolution_width,resolution_height
+oneplus,OnePlus 11 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord CE 2 Lite 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A14 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G62 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 10 Pro Plus,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14,bionic,ios,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Pro Plus,dimensity,android,,,,,,,,,,,,,,,,,,,
+nothing,Nothing Phone 1,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord 2T 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 10 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A78,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1 5G (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S23 Ultra 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13,bionic,ios,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y16,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 9 Pro Plus,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10R 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y22,helio,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 11R,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V25 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X4 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V26 Pro,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S20 FE 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Pro Max,bionic,ios,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V25 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 11 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 10 Pro (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X5 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V27,dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 11,bionic,ios,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M53 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S21 FE 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Reno 8T,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S22 Ultra 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 9 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord CE 3 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 20 Fusion 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 10 Pro Plus (8GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y35,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M33 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C33,unisoc,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y16 (4GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A74 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Neo 7 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+jio,Jio JioPhone 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G82 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 10,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9i 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Plus,bionic,ios,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10S,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S23 Plus,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G32,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 13 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo S16,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A23,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y22 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M4 Pro 5G (6GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo S16 Pro,dimensity,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F23 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Find N Fold,snapdragon,other,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A17K,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V23 5G (12GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 Lite 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10T,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10T 5G (6GB RAM +128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+gionee,Gionee G13 Pro,tiger,other,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 Pro,bionic,ios,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F22 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A34 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10A (4GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G72 4G,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M13 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 30 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A23 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO K10 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A73 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y21 2021,helio,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Ace Racing Edition 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G62 (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X90 Pro Plus 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C33 (4GB RAM + 64GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9i,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A17,helio,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 11 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X Fold 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Pro,bionic,ios,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto S30 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 10s,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F19 Pro Plus 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 13 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V27 Pro,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S22 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1 44W (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10R 5G (12GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Phantom X2,dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 12,bionic,ios,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K50i 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A53 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi A1,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno8 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M53 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+tesla,Tesla Pi Phone,,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S23,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 30 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord 2T (12GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 6A,google,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V23 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G42,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A33 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 7A,google,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 11 Prime 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 Lite,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto E40,tiger,android,,,,,,,,,,,,,,,,,,,
+nothing,Nothing Phone 1 (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X4 Pro 5G (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 11 (128GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+realme,Realme C35 (6GB RAM + 128GB),tiger,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO K10,snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Neo 6 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 9 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M4 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+jio,Jio Phone 3,,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Clover,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F04,helio,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 7,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M34 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 12 Mini,bionic,ios,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G52,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 15 Pro Max,bionic,ios,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A98,snapdragon,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Zero 5G 2023,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C30,tiger,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F21 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 11 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Find N2 5G,snapdragon,,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 4G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+cola,Cola Phone,helio,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 Pro Max,bionic,ios,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Reno 10 Pro Plus,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X90 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F13,exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10S (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 10 (8GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 9 SE 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 20,dimensity,android,,,,,,,,,,,,,,,,,,,
+letv,Letv Y1 Pro,tiger,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A74 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 9,bionic,ios,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 Lite (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11SE,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y75 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V25 (12GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+poco,POCO M4 Pro 4G,helio,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Zero Ultra,dimensity,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark Go 2023,helio,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto X40,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F24 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 10 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord 3 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G82 (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+ikall,iKall Z19 Pro,,android,,,,,,,,,,,,,,,,,,,
+leeco,LeEco S1 Pro,tiger,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C2s,helio,android,,,,,,,,,,,,,,,,,,,
+duoqin,Duoqin F22 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M54 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia N73 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 30 Fusion 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C35,tiger,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 8 Pro House of Dragon Edition,dimensity,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord CE 3 Lite 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X4 Pro 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M04,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A77s,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A13,,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 30 Ultra,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 13 Ultra 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G52 (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M4 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+nothing,Nothing Phone 1 (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A54 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pova 4,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Pro Max (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V25 Pro (12GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 5G (6GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+lava,Lava Blaze 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+honor,Honor X9a,snapdragon,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 7 Pro 5G,google,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pova 3,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V23 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A04e,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K60,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 Pro Plus 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9i 5G (6GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 30 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 64GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y02,helio,android,,,,,,,,,,,,,,,,,,,
+poco,POCO C31 (4GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Neo 3T,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 8 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 11 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1x 4G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10 Power,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A58,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1 44W,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mix Fold 2 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y16 (3GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 8 Z,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y75 4G,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Explorer,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A57 4G (4GB RAM + 64 GB),helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A75 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 7 5G,google,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F21s Pro 4G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G73,dimensity,android,,,,,,,,,,,,,,,,,,,
+nubia,Nubia Red Magic 8 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G31,helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Phantom X2 Pro,dimensity,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Zero 20,helio,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 5G (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A1 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S22 FE 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S22 Plus 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo U3x,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G23,helio,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M4 5G (6GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pova 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+poco,POCO C31,helio,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone XR2,bionic,ios,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A53 (8GB RAM + 256GB),exynos,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno7 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Ace 2,snapdragon,android,,,,,,,,,,,,,,,,,,,
+redmi,Redmi Note 11 Pro 2023,snapdragon,android,,,,,,,,,,,,,,,,,,,
+nothing,Nothing Phone 2,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A32 (8GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 6 Pro,google,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12i (2022),helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 12 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 Mini,bionic,ios,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pova 3 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C31 (4GB RAM + 64GB),tiger,android,,,,,,,,,,,,,,,,,,,
+asus,Asus ROG Phone 6 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V23e 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Mini,bionic,ios,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10T 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Neo 7 SE 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A23 (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Turbo,snapdragon,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 20 (6GB RAM+ 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Pro Max (1TB),bionic,ios,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M13,exynos,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M4 Pro 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10S (8GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C11 2021 (4GB RAM + 64GB),sc9863a,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 30 Ultra (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F21s Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 13 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10A,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y01A,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K50i (8GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C30 (3GB RAM + 32GB),tiger,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G51 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10 (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 11 Lite NE 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Z Flip 3,snapdragon,,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 12 (128GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10T (16GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A13 (4GB RAM + 128GB),,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno7 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 9RT 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G71 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+itel,itel S16 Pro,,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y100,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+poco,POCO X5 GT,dimensity,android,,,,,,,,,,,,,,,,,,,
+honor,Honor X9 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 11 (16GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Z Fold 4,snapdragon,android,,,,,,,,,,,,,,,,,,,
+royole,Royole FlexPai 2,snapdragon,,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Plus (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 9,helio,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 6,google,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S21 Ultra,exynos,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 20 Play,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1x (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F23 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 Pro 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A73 5G (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 5G SE (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco F4 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A03 Core,unisoc,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G60,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 9 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11S,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9 Activ,helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Camon 19 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A04,helio,android,,,,,,,,,,,,,,,,,,,
+poco,POCO M4 Pro 4G (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord N20 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Find X6 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X90 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G53,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G22,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9i Sport,helio,android,,,,,,,,,,,,,,,,,,,
+jio,Jio JioPhone Next,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y93,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K60 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C30s,unisoc,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y22s,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A77,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10A Sport,helio,android,,,,,,,,,,,,,,,,,,,
+poco,Poco F4 (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 4G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 12T Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 9 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 12 Mini (128GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S24 Ultra,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Find N Flip,dimensity,,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10T (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 9 (4GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia Pro-I,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V21 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X3,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S20 FE,exynos,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 4,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S10 Plus,exynos,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 11 Pro Plus,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F21 Pro 4G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT 2 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S21,exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A71,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y02s,helio,android,,,,,,,,,,,,,,,,,,,
+letv,Letv Y2 Pro,unisoc,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 8C (4GB RAM + 64GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 Pro Plus 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A04s,exynos,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9i (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 8 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F19,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Find N2 Flip,dimensity,,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M32 Prime Edition,helio,android,,,,,,,,,,,,,,,,,,,
+oukitel,Oukitel WP19,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 Pro 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A13 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+itel,itel P36,spreadtrum,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Neo 5,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 15 Ultra,bionic,ios,,,,,,,,,,,,,,,,,,,
+poco,Poco C50,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Note 30 Ultra 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9i (4GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11T 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X80 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 6 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 11i 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+asus,Asus ROG Phone 7,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A77 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 5G SE,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A03,unisoc,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord N200,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 11X,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 6,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme X50 Pro 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10A (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+redmi,Redmi Note 12 Pro Speed Edition,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Pro (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G72,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto X30 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 12S Ultra,snapdragon,android,,,,,,,,,,,,,,,,,,,
+honor,Honor 70 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 512GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V23 Pro 5G (12GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A55 4G (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 11T Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia X50 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vertu,Vertu Signature Touch,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Camon 19 Pro Mondrian Edition,helio,android,,,,,,,,,,,,,,,,,,,
+poco,Poco F5,snapdragon,android,,,,,,,,,,,,,,,,,,,
+blu,BLU F91 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A16e,helio,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto E32,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11S (8GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone SE 3 2022,bionic,ios,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A52 (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X3 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9A,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A32,helio,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G13,helio,android,,,,,,,,,,,,,,,,,,,
+asus,Asus ROG Phone 6 Batman Edition,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Smart 6 HD,helio,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 15 Pro,bionic,ios,,,,,,,,,,,,,,,,,,,
+realme,Realme C35 (4GB RAM + 128GB),tiger,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 12,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X80 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y53s,helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Phantom X,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M04 (4GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+redmi,Redmi 12C,helio,android,,,,,,,,,,,,,,,,,,,
+asus,Asus ZenFone 9,snapdragon,android,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia L5 5G,helio,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 9 SE 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 8 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10 Prime,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F22,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi Mix Alpha,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 10 Pro,dimensity,android,,,,,,,,,,,,,,,,,,,
+nubia,Nubia Z50,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F13 (4GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia G11 Plus,unisoc,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 12 Play,tiger,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T2 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno7 Z 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50i,unisoc,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Zero X Pro,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M32,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A82 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Poco F1,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y25,helio,android,,,,,,,,,,,,,,,,,,,
+lyf,Lyf Earth 1,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto E13,tiger,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pop 6 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+itel,Itel A24 Pro,unisoc,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X Fold Plus,snapdragon,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Mate 50 RS Porsche Design,snapdragon,other,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F63,dimensity,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 4G (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia 5 II,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y3 (4GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia 1 IV (12GB RAM + 512GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pova 4 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Nova 10 SE,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1x (4GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+nubia,Nubia Red Magic 7S Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto E32s (4GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Neo 6 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A15,,android,,,,,,,,,,,,,,,,,,,
+poco,POCO X4 GT 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50 5G (4GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y77 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+honor,Honor 60 SE 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 11 Prime,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C31,tiger,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G31 (6GB RAM+ 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Z Flip 4 5G,snapdragon,,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 6 (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 2 XL,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi A1 Plus,helio,android,,,,,,,,,,,,,,,,,,,
+honor,Honor 70 5G (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y15s,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M32 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F42 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Q5 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,POCO M3 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 5,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 12 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Discovery Edition,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M13 (4GB RAM + 64GB),exynos,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Reno 8 Pro (8GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y78 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 4G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A76,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 9 Pro Plus 5G (8GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y01,helio,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto Edge S30 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT 2 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 Pro (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y73 2021,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F14,,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V20,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 9 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 10R Prime Edition,dimensity,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 6 Pro (12GB RAM + 256GB),google,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia C31,unisoc,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 12 Pro (8GB RAM+ 128GB),tiger,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M5,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10C (4GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+zte,ZTE Axon 40 Ultra 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 12 Pro 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO K10 (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Nova 9 SE,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S22 5G (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+lenovo,Lenovo Legion Y90,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y55 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia X100 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 8s 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 8s 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia X60 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X5,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 7 (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 8,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S20,exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K60E,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto E32s,helio,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord 3T 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F23 Pro Plus 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco F5 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A16e (4GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+poco,POCO M4 Pro 4G (8GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50A,helio,android,,,,,,,,,,,,,,,,,,,
+asus,Asus ROG Phone 5s 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Master Edition 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A32 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+nubia,Nubia Red Magic 8 Pro Plus,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Z Fold 3,snapdragon,android,,,,,,,,,,,,,,,,,,,
+lg,LG Wing 5G,snapdragon,,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 9 Pro Max,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A52,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y71,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A04e (3GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A56s,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Reno 8T 4G,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 10,snapdragon,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia G60,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A77 (4GB RAM + 128 GB),helio,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 40 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo K10x 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z6 Pro 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia G21 (6GB RAM + 128GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A13 (6GB RAM + 128GB),,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A16K (4GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10C,snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 9 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Neo 3 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 11i HyperCharge 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Neo 6 SE 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 9 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50i (4GB RAM + 64GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9 Activ (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+jio,Jio JioPhone Next (3GB RAM + 32GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 8 2021,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y20G,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A22 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V21,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 7 Pro (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord Lite,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S20 Ultra 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 11 Pro Max,bionic,ios,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 7s,fusion,ios,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia Ace IV,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A04e (4GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 4G,helio,android,,,,,,,,,,,,,,,,,,,
+oukitel,Oukitel WP21,helio,,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V28,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco F4 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11T Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50 Pro 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T1 44W (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11S (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+lava,Lava Agni 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 8i (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A55 4G,helio,android,,,,,,,,,,,,,,,,,,,
+poco,POCO M3 Pro 5G (6GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C21Y,unisoc,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A16,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V21 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 12 Pro (512GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia 1 II,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge Plus,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Note 20,exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A12,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Neo 3T (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C30s (4GB RAM + 64GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 (512GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 9T 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Camon 19 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord 2 Lite 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,POCO F4 GT 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y10,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A83 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y33s,helio,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Mate 40 Pro 4G,kirin,other,,,,,,,,,,,,,,,,,,,
+micromax,Micromax IN 2B,unisoc,android,,,,,,,,,,,,,,,,,,,
+asus,Asus ROG Phone 6,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme X7 Max,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 8 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A55 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9,helio,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone SE 2020,bionic,ios,,,,,,,,,,,,,,,,,,,
+letv,Letv Y1 Pro Plus,tiger,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord 5,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y73T,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 9 Z,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V25e,helio,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 12 Pro,tiger,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50 5G (4GB RAM + 64GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+itel,itel Vision 3,unisoc,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A96 4G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11E 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+honor,Honor Magic 4 Pro Plus 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 9T,helio,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Smart 6,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C25Y (4GB RAM + 64GB),tiger,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A12 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Camon 19,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 11X 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 Pro Max,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 10T 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+lg,LG Velvet 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola One Fusion Plus,snapdragon,android,,,,,,,,,,,,,,,,,,,
+lg,LG V60 ThinQ,snapdragon,,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Note 10 Lite,exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Note 10 Plus 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Neo 7 Racing Edition,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A04s (4GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y35 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y02 (2GB RAM + 32GB),helio,android,,,,,,,,,,,,,,,,,,,
+itel,itel Vision 3 (2GB RAM + 32GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11R,dimensity,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M6 Pro,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A97 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A24,exynos,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 13 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+honor,Honor Play 30,snapdragon,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Smart 6 Plus,helio,android,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia 5 IV 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+nubia,Nubia Z40 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia G21,unisoc,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 12 Lite 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Find N 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 Pro Max (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y21s,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F19s,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M21 2021,exynos,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F19 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO X 2021,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord N10,snapdragon,android,,,,,,,,,,,,,,,,,,,
+gionee,Gionee M12 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M2,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO F17 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A50s,exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Note 10 Plus,exynos,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y15,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo S1 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T3 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V21s,dimensity,android,,,,,,,,,,,,,,,,,,,
+asus,Asus ROG Phone 6D Ultimate,dimensity,,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto Edge 30 Neo,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 12T,dimensity,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Mate 50 Pro 5G,kirin,other,,,,,,,,,,,,,,,,,,,
+realme,Realme C32,tiger,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Mate Xs 2,snapdragon,,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z7 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 15,bionic,ios,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 11S (8GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 8 (4GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A56 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X80 Pro Plus 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10 Prime (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Nova 9,snapdragon,other,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pop 5 Go,spreadtrum,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei P50 Pro 4G,snapdragon,other,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K50 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia C01 Plus,unisoc,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Q3,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 6 Pro Plus 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge S,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Find X3 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M3,snapdragon,android,,,,,,,,,,,,,,,,,,,
+itel,itel S16,unisoc,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V20 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 10T Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V19 (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S20 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo U3,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo K5 (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme XT,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y12 (3GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Poco F1 (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco C50 (3GB RAM + 32GB),helio,android,,,,,,,,,,,,,,,,,,,
+ikall,iKall Z19,,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K60 Gaming Edition,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo S17 Pro,dimensity,android,,,,,,,,,,,,,,,,,,,
+honor,Honor 80 Pro Plus,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone SE 4,bionic,ios,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pova Neo 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Pro Max (512GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 8,google,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T2x 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G52 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 40 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X Note 5G (12GB RAM + 512GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y15C,helio,android,,,,,,,,,,,,,,,,,,,
+honor,Honor X8,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A03 (4GB RAM + 64GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y33T,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 11i 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Find X5 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark Go 2022,,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y21e,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9A Sport,helio,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 Pro Max (1TB),bionic,ios,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y12G (3GB RAM + 64GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V23e,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F22 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 12 Ultra 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+micromax,Micromax IN 2C,tiger,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A03s,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A54 (4GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 20X,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi Mix Fold,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 30 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A54,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A15s (4GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+itel,itel A56,,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9 Power,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S21 Plus,exynos,android,,,,,,,,,,,,,,,,,,,
+poco,POCO M2 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S20 Plus,exynos,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 6 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei P40 Pro,kirin,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y11 (2019),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V15 Pro (8GB RAM +128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y95,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V11i,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S9 Plus (128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Neo 4T,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y53t,dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A04 (4GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+leitz,Leitz Phone 2,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K60i,dimensity,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 20S,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Neo 3T (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Plus (512GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 14 Pro (1TB),bionic,ios,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 13 Prime 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia C21 Plus (4GB RAM + 64GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord N300,dimensity,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Camon 19 Neo,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50i Prime,tiger,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K50 Ultra 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A57 4G,helio,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S23 FE 5G,,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M51s 5G,,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X80 5G (12GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X6 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12 (G96),helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M14,exynos,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo T2 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 10 Prime Plus 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 11 Pro 4G,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50A Prime,tiger,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y55s 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y21T,snapdragon,android,,,,,,,,,,,,,,,,,,,
+gionee,Gionee K10,tiger,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 (512GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 11S,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Explorer Master Edition,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 12 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+cat,CAT S22 Flip,snapdragon,,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 11 Lite (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Q3i 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 11X Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+lenovo,Lenovo Legion Pro 2,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M62,exynos,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Q2i,dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 12 Pro (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9i (4GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 6 (6GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A01 Core,mediatek,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Reno 5,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A31 2020 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia 10 II,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y91c,helio,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Nova 7i,kirin,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y19,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo U3 (6GB RAM + 64GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 9,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 8 (4GB RAM + 64GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola One Macro,helio,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 3a XL,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A40,exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S10 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Honor 9N,kirin,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 4,snapdragon,android,,,,,,,,,,,,,,,,,,,
+doogee,Doogee V Max,dimensity,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Nova Y61,,other,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z9,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V29,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco M5 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia X30,snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pova Neo 2,helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y15C (3GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Nova 10,snapdragon,other,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Nova Y90,snapdragon,other,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A92 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12 VIP,helio,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord 4 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50A Prime (4GB RAM + 128GB),tiger,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Ace 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 9 5G (12GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 12T 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A96 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+royole,Royole FlexPai 3 5G,snapdragon,,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Camon 18,helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Phantom X Pro,helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 8T,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT Neo2 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+sony,Sony Xperia 10 III Lite 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme G1,helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Pova 2,helio,android,,,,,,,,,,,,,,,,,,,
+poco,Poco X4,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G40 Fusion,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus 9T,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 8 (8GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 30 Pro 5G (8GB RAM +128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+itel,Itel A23 Pro,spreadtrum,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Reno 5 Pro 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord SE,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M12,exynos,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Nord N100,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 12 Mini (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 12 (256GB),bionic,ios,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A15,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo A12,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme X50 Pro 5G (8GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy S20 Plus 5G,exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi K20 Pro Signature Edition,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi Note 8 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme A1,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A73,helio,android,,,,,,,,,,,,,,,,,,,
+lyf,Lyf Earth 2,snapdragon,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 15 Plus,bionic,ios,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y55s 2023,dimensity,android,,,,,,,,,,,,,,,,,,,
+lava,Lava Blaze NXT,helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Camon 20 Premier,dimensity,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO Reno 8 House of Dragon Edition,dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto E22s,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),helio,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Hot 20i,helio,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 9 (3GB RAM + 64GB),helio,android,,,,,,,,,,,,,,,,,,,
+zte,ZTE Axon 30S,snapdragon,android,,,,,,,,,,,,,,,,,,,
+honor,Honor X6,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Civi 2,snapdragon,android,,,,,,,,,,,,,,,,,,,
+tcl,TCL Ion X,helio,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy Z Fold 4 (12GB RAM + 1TB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+nothing,Nothing Phone 1 Lite,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto Edge X30 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Ace Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT 2 Explorer Master Edition,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M35,,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A05,,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 12 Turbo,helio,android,,,,,,,,,,,,,,,,,,,
+poco,POCO F5 GT 5G,dimensity,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z8 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y55 4G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X Fold 5G (12GB RAM + 512GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo K10 Pro 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+tecno,Tecno Spark 8C,unisoc,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO Z7 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+infinix,Infinix Note 11 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F42 5G (8GB RAM + 128GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+apple,Apple iPhone 13 Pro (1TB),bionic,ios,,,,,,,,,,,,,,,,,,,
+nubia,Nubia Red Magic 6S 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+micromax,Micromax IN 2B (6GB RAM + 64GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+nokia,Nokia X60 5G,snapdragon,other,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y12a,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Reno 5A,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco F3 GT,dimensity,android,,,,,,,,,,,,,,,,,,,
+honor,Honor 50,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A54 (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme 8i,helio,android,,,,,,,,,,,,,,,,,,,
+iqoo,iQOO 7 Legend,snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C11 2021,sc9863a,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A22,helio,android,,,,,,,,,,,,,,,,,,,
+realme,Realme GT 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 5A,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F12,exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy F41 (6GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A21s (6GB RAM + 128GB),exynos,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Redmi 9A (6GB RAM + 128GB),helio,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo V20 SE,snapdragon,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A53 2020 (6GB RAM + 128GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 20,helio,android,,,,,,,,,,,,,,,,,,,
+itel,itel Vision 1 (3GB RAM + 32GB),unisoc,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C11,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Mi 10 5G (8GB RAM + 256GB),snapdragon,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y21 (2020),snapdragon,android,,,,,,,,,,,,,,,,,,,
+oneplus,OnePlus Z,snapdragon,android,,,,,,,,,,,,,,,,,,,
+sharp,Sharp Aquos R5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Mate 30 RS Porsche Design,kirin,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A11,,android,,,,,,,,,,,,,,,,,,,
+realme,Realme C2,helio,android,,,,,,,,,,,,,,,,,,,
+huawei,Huawei Mate X,kirin,,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A9 Pro (2019),snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy A7 (2018),exynos,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo Y55S,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,Poco C55,helio,android,,,,,,,,,,,,,,,,,,,
+blackview,Blackview BV5200 Pro,helio,android,,,,,,,,,,,,,,,,,,,
+honor,Honor X7a,helio,android,,,,,,,,,,,,,,,,,,,
+oppo,OPPO A58x,dimensity,android,,,,,,,,,,,,,,,,,,,
+doogee,Doogee S99,helio,android,,,,,,,,,,,,,,,,,,,
+lava,Lava X3,helio,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Edge 40 Fusion,snapdragon,android,,,,,,,,,,,,,,,,,,,
+ikall,iKall Z18,,android,,,,,,,,,,,,,,,,,,,
+oukitel,Oukitel WP9,helio,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi 14,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola ThinkPhone,snapdragon,android,,,,,,,,,,,,,,,,,,,
+xiaomi,Xiaomi Civi 3,dimensity,android,,,,,,,,,,,,,,,,,,,
+realme,Realme Narzo 50i Prime (4GB RAM + 64GB),tiger,android,,,,,,,,,,,,,,,,,,,
+oppo,Oppo Find X6,snapdragon,android,,,,,,,,,,,,,,,,,,,
+itel,itel A23s,spreadtrum,android,,,,,,,,,,,,,,,,,,,
+google,Google Pixel 8 Pro,google,android,,,,,,,,,,,,,,,,,,,
+vivo,Vivo X Fold 2,snapdragon,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto Edge S30 Pro,snapdragon,android,,,,,,,,,,,,,,,,,,,
+honor,Honor X8 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+poco,POCO X4 GT 5G (8GB RAM + 256GB),dimensity,android,,,,,,,,,,,,,,,,,,,
+motorola,Motorola Moto G91 5G,snapdragon,android,,,,,,,,,,,,,,,,,,,
+samsung,Samsung Galaxy M52s 5G,,android,,,,,,,,,,,,,,,,,,,
+,,,,54999.0,89.0,8.0,3.0,5000.0,1.0,100.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1440.0,3216.0
+,,,,19989.0,81.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,16499.0,75.0,8.0,2.0,5000.0,1.0,15.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,13.0,1.0,1024.0,1080.0,2408.0
+,,,,14999.0,81.0,8.0,2.0,5000.0,1.0,0.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,24999.0,82.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,16999.0,80.0,8.0,2.0,5000.0,1.0,25.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,65999.0,81.0,6.0,3.0,3279.0,1.0,0.0,6.0,128.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,29999.0,86.0,8.0,2.0,4980.0,1.0,120.0,8.0,256.0,6.0,120.0,3.0,1.0,200.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,26749.0,85.0,8.0,2.0,4500.0,1.0,33.0,8.0,128.0,6.0,120.0,2.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,28999.0,84.0,8.0,3.0,4500.0,1.0,80.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,18999.0,82.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,2.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,18999.0,79.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,0.0,720.0,1612.0
+,,,,24762.0,79.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,16990.0,80.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,114990.0,0.0,8.0,3.0,5000.0,1.0,45.0,8.0,256.0,6.0,120.0,4.0,1.0,200.0,12.0,0.0,0.0,1440.0,3088.0
+,,,,62999.0,79.0,6.0,3.0,3240.0,1.0,0.0,4.0,128.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,9999.0,65.0,8.0,2.0,5000.0,1.0,10.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,0.0,720.0,1600.0
+,,,,45999.0,86.0,8.0,3.0,4700.0,1.0,80.0,16.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,32999.0,86.0,8.0,2.0,5000.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,14499.0,72.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,8.0,1.0,1024.0,720.0,1612.0
+,,,,39999.0,85.0,8.0,3.0,5000.0,1.0,100.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,35999.0,85.0,8.0,3.0,4830.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2376.0
+,,,,14999.0,80.0,8.0,2.0,5000.0,1.0,67.0,6.0,64.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,17859.0,76.0,8.0,2.0,5000.0,1.0,33.0,4.0,128.0,6.0,120.0,3.0,1.0,48.0,13.0,1.0,1024.0,1080.0,2400.0
+,,,,42990.0,87.0,8.0,3.0,4800.0,1.0,100.0,12.0,256.0,6.0,120.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,31239.0,88.0,8.0,2.0,4500.0,1.0,0.0,8.0,128.0,6.0,120.0,3.0,1.0,12.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,21995.0,84.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,129990.0,76.0,6.0,0.0,4323.0,1.0,0.0,6.0,128.0,6.0,120.0,3.0,1.0,48.0,12.0,0.0,0.0,1290.0,2796.0
+,,,,27999.0,83.0,8.0,2.0,4500.0,1.0,44.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,50.0,1.0,1024.0,1080.0,2408.0
+,,,,69999.0,0.0,8.0,3.0,4500.0,1.0,100.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1440.0,3216.0
+,,,,19999.0,84.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,2.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,20999.0,81.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,27990.0,83.0,8.0,2.0,4700.0,1.0,67.0,8.0,256.0,6.0,120.0,3.0,1.0,64.0,50.0,1.0,0.0,1080.0,2400.0
+,,,,38999.0,73.0,6.0,2.0,3110.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,828.0,1792.0
+,,,,23790.0,85.0,8.0,2.0,5000.0,1.0,25.0,6.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,39999.0,87.0,8.0,2.0,4500.0,1.0,25.0,8.0,128.0,6.0,120.0,3.0,1.0,12.0,32.0,0.0,0.0,1080.0,2340.0
+,,,,29990.0,87.0,8.0,2.0,5000.0,1.0,66.0,8.0,256.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,91999.0,0.0,8.0,3.0,5000.0,1.0,45.0,12.0,256.0,6.0,120.0,4.0,1.0,108.0,40.0,0.0,0.0,1440.0,3080.0
+,,,,32999.0,83.0,8.0,2.0,5200.0,1.0,210.0,6.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,512.0,1080.0,2460.0
+,,,,28499.0,83.0,8.0,2.0,4500.0,1.0,67.0,8.0,256.0,6.0,120.0,2.0,1.0,64.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,21999.0,83.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,19999.0,83.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,18999.0,87.0,8.0,2.0,5000.0,1.0,30.0,6.0,128.0,6.0,90.0,3.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,27999.0,85.0,8.0,2.0,5000.0,1.0,67.0,8.0,256.0,6.0,120.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,18499.0,80.0,8.0,2.0,5000.0,1.0,44.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,17478.0,81.0,8.0,2.0,6000.0,1.0,25.0,6.0,128.0,6.0,120.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,11936.0,76.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,4.0,1.0,50.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,8950.0,64.0,8.0,1.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,12489.0,68.0,8.0,2.0,5000.0,1.0,10.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,0.0,720.0,1600.0
+,,,,42999.0,0.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2412.0
+,,,,18999.0,79.0,8.0,2.0,5000.0,1.0,15.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,13.0,1.0,1024.0,1080.0,2408.0
+,,,,29999.0,82.0,8.0,3.0,5000.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,11990.0,64.0,8.0,2.0,5000.0,1.0,18.0,4.0,32.0,6.0,90.0,1.0,1.0,13.0,8.0,1.0,512.0,720.0,1600.0
+,,,,18999.0,83.0,8.0,2.0,5000.0,1.0,30.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,13999.0,74.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,14965.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,74999.0,82.0,6.0,3.0,4325.0,1.0,0.0,6.0,128.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1284.0,2778.0
+,,,,10999.0,78.0,8.0,2.0,5000.0,1.0,33.0,6.0,64.0,6.0,60.0,4.0,1.0,64.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,84990.0,89.0,8.0,3.0,4700.0,1.0,45.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,12.0,0.0,0.0,1080.0,2340.0
+,,,,10499.0,75.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,17990.0,78.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,29990.0,85.0,8.0,3.0,4600.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,50.0,0.0,0.0,1080.0,2400.0
+,,,,18499.0,79.0,8.0,2.0,5000.0,1.0,25.0,6.0,128.0,6.0,60.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,16499.0,75.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,60.0,2.0,1.0,50.0,8.0,1.0,1024.0,720.0,1612.0
+,,,,14999.0,81.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,35499.0,86.0,8.0,3.0,4600.0,1.0,66.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,50.0,0.0,0.0,1080.0,2400.0
+,,,,60999.0,89.0,8.0,3.0,5000.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3216.0
+,,,,32999.0,87.0,8.0,2.0,4980.0,1.0,120.0,12.0,256.0,6.0,120.0,3.0,1.0,200.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,15999.0,78.0,8.0,2.0,5000.0,1.0,25.0,4.0,128.0,6.0,120.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,99990.0,0.0,8.0,3.0,5000.0,1.0,67.0,8.0,256.0,7.0,120.0,2.0,0.0,50.0,0.0,0.0,0.0,1792.0,1920.0
+,,,,9499.0,62.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1612.0
+,,,,27994.0,86.0,8.0,2.0,4200.0,1.0,44.0,12.0,256.0,6.0,90.0,3.0,2.0,64.0,50.0,1.0,0.0,1080.0,2400.0
+,,,,13989.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,120.0,2.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,44999.0,85.0,8.0,3.0,4800.0,1.0,150.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,13999.0,79.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,6190.0,0.0,4.0,2.0,3500.0,0.0,0.0,4.0,32.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,0.0,720.0,1600.0
+,,,,119900.0,83.0,6.0,3.0,3095.0,1.0,0.0,6.0,128.0,6.0,120.0,3.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,27660.0,83.0,8.0,2.0,4800.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,24999.0,75.0,8.0,0.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,4.0,1.0,48.0,13.0,1.0,1024.0,1080.0,2400.0
+,,,,8388.0,66.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,15999.0,83.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,20999.0,82.0,8.0,2.0,5000.0,1.0,15.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,13.0,1.0,1024.0,1080.0,2408.0
+,,,,13999.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,19990.0,83.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,13999.0,75.0,8.0,2.0,5000.0,1.0,15.0,6.0,128.0,6.0,90.0,2.0,1.0,50.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,22999.0,83.0,8.0,2.0,4020.0,1.0,33.0,6.0,128.0,6.0,144.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,22999.0,79.0,8.0,2.0,5000.0,1.0,25.0,6.0,128.0,6.0,120.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,16999.0,79.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,2.0,1.0,48.0,8.0,1.0,1024.0,720.0,1612.0
+,,,,14290.0,80.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,4.0,1.0,50.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,41999.0,0.0,8.0,2.0,5000.0,1.0,25.0,8.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,13489.0,69.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,22990.0,83.0,8.0,2.0,5000.0,1.0,0.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,16499.0,84.0,8.0,2.0,5000.0,1.0,0.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,73999.0,0.0,8.0,3.0,4700.0,1.0,80.0,12.0,256.0,6.0,120.0,4.0,1.0,50.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,9999.0,67.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,12499.0,75.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,12499.0,72.0,8.0,2.0,5000.0,1.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,1024.0,720.0,1612.0
+,,,,59999.0,88.0,8.0,3.0,5000.0,1.0,120.0,8.0,256.0,6.0,144.0,3.0,1.0,50.0,16.0,0.0,0.0,1440.0,3200.0
+,,,,106990.0,0.0,8.0,3.0,4600.0,1.0,66.0,12.0,256.0,8.0,120.0,4.0,1.0,50.0,16.0,0.0,0.0,1916.0,2160.0
+,,,,15990.0,78.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,119990.0,75.0,6.0,0.0,3200.0,1.0,0.0,6.0,128.0,6.0,120.0,3.0,1.0,48.0,12.0,0.0,0.0,1179.0,2556.0
+,,,,19999.0,83.0,8.0,2.0,5200.0,1.0,33.0,6.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,512.0,1080.0,2400.0
+,,,,23990.0,83.0,8.0,2.0,4400.0,1.0,68.0,8.0,128.0,6.0,144.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2460.0
+,,,,12999.0,80.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,19990.0,82.0,8.0,2.0,4310.0,1.0,50.0,8.0,128.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,58990.0,0.0,8.0,3.0,4820.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,43999.0,87.0,8.0,3.0,5000.0,1.0,120.0,12.0,256.0,6.0,144.0,3.0,1.0,108.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,49999.0,86.0,8.0,3.0,3700.0,1.0,25.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,10.0,0.0,0.0,1080.0,2340.0
+,,,,15999.0,79.0,8.0,2.0,5000.0,1.0,44.0,6.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,36999.0,87.0,8.0,2.0,5000.0,1.0,80.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,39999.0,85.0,8.0,3.0,5160.0,1.0,45.0,8.0,256.0,6.0,120.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,51999.0,74.0,6.0,3.0,0.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,22999.0,82.0,8.0,2.0,5080.0,1.0,67.0,6.0,128.0,6.0,144.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,31999.0,87.0,8.0,2.0,5000.0,1.0,25.0,6.0,128.0,6.0,120.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,6171.0,0.0,4.0,2.0,5000.0,1.0,10.0,2.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,720.0,1600.0
+,,,,29340.0,83.0,8.0,3.0,4500.0,1.0,80.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,25289.0,87.0,8.0,2.0,5000.0,1.0,25.0,8.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,21788.0,78.0,8.0,2.0,4700.0,1.0,66.0,6.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2404.0
+,,,,69999.0,83.0,8.0,0.0,5000.0,1.0,120.0,16.0,512.0,6.0,165.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2448.0
+,,,,70990.0,88.0,8.0,3.0,3900.0,1.0,25.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,12.0,0.0,0.0,1080.0,2340.0
+,,,,34999.0,89.0,8.0,3.0,4800.0,1.0,68.0,8.0,128.0,6.0,144.0,3.0,1.0,50.0,60.0,0.0,0.0,1080.0,2400.0
+,,,,33900.0,85.0,8.0,3.0,4500.0,1.0,80.0,12.0,256.0,6.0,90.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,29999.0,71.0,8.0,0.0,4410.0,1.0,0.0,6.0,128.0,6.0,60.0,2.0,1.0,12.0,8.0,0.0,0.0,1080.0,2400.0
+,,,,18999.0,84.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,108.0,16.0,1.0,2048.0,1080.0,2400.0
+,,,,19499.0,84.0,8.0,2.0,6000.0,1.0,25.0,8.0,128.0,6.0,120.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,24994.0,83.0,8.0,2.0,4200.0,1.0,44.0,8.0,128.0,6.0,90.0,3.0,2.0,64.0,50.0,0.0,0.0,1080.0,2400.0
+,,,,10999.0,78.0,8.0,2.0,5000.0,1.0,20.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,24999.0,85.0,8.0,2.0,5000.0,1.0,33.0,8.0,256.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,25999.0,82.0,8.0,2.0,5000.0,1.0,25.0,6.0,128.0,6.0,90.0,4.0,1.0,48.0,13.0,1.0,1024.0,1080.0,2400.0
+,,,,34990.0,69.0,8.0,0.0,4410.0,1.0,0.0,6.0,128.0,6.0,90.0,2.0,1.0,12.0,8.0,0.0,0.0,1080.0,2400.0
+,,,,13466.0,74.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,5.0,1.0,512.0,1080.0,2408.0
+,,,,9999.0,76.0,8.0,2.0,5020.0,1.0,18.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,7999.0,71.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,90.0,3.0,1.0,48.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,28249.0,86.0,8.0,2.0,4500.0,1.0,33.0,8.0,256.0,6.0,120.0,2.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,16499.0,82.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,22999.0,87.0,8.0,2.0,5000.0,1.0,67.0,8.0,256.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,46999.0,75.0,6.0,2.0,3110.0,0.0,0.0,4.0,128.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,828.0,1792.0
+,,,,13999.0,74.0,8.0,1.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,13490.0,78.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,28999.0,82.0,8.0,3.0,4700.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,15499.0,78.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,39999.0,86.0,8.0,2.0,4500.0,1.0,67.0,16.0,256.0,6.0,120.0,2.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,12999.0,76.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,4499.0,0.0,4.0,1.0,2800.0,0.0,0.0,2.0,64.0,5.0,60.0,1.0,1.0,5.0,2.0,1.0,128.0,720.0,1280.0
+,,,,14999.0,69.0,8.0,1.0,6000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,0.0,720.0,1560.0
+,,,,8499.0,68.0,8.0,2.0,5000.0,1.0,15.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,24990.0,83.0,8.0,3.0,4400.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,16999.0,84.0,8.0,2.0,6000.0,1.0,25.0,6.0,128.0,6.0,120.0,4.0,1.0,64.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,9589.0,71.0,8.0,2.0,6000.0,1.0,18.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,512.0,720.0,1600.0
+,,,,40999.0,74.0,6.0,3.0,0.0,0.0,0.0,4.0,64.0,5.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1080.0,2340.0
+,,,,19988.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,48.0,13.0,1.0,1024.0,1080.0,2400.0
+,,,,11999.0,75.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,0.0,2460.0,1080.0
+,,,,142990.0,79.0,0.0,0.0,4352.0,1.0,25.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,12.0,0.0,0.0,1284.0,2778.0
+,,,,30990.0,87.0,8.0,3.0,5000.0,1.0,67.0,8.0,128.0,6.0,120.0,2.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,19499.0,85.0,8.0,2.0,5000.0,1.0,33.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,256.0,1080.0,2460.0
+,,,,5299.0,0.0,8.0,1.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,25969.0,82.0,8.0,2.0,4500.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,28999.0,82.0,8.0,3.0,5000.0,1.0,65.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,32.0,1.0,256.0,1080.0,2400.0
+,,,,94990.0,0.0,8.0,3.0,4520.0,1.0,67.0,12.0,256.0,7.0,120.0,3.0,2.0,50.0,32.0,0.0,0.0,1792.0,1920.0
+,,,,14999.0,81.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,108.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,14999.0,74.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,129900.0,84.0,6.0,3.0,4352.0,1.0,0.0,6.0,128.0,6.0,120.0,3.0,1.0,12.0,12.0,0.0,0.0,1284.0,2778.0
+,,,,58990.0,88.0,8.0,3.0,4700.0,1.0,80.0,12.0,256.0,6.0,120.0,4.0,1.0,64.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,41990.0,88.0,8.0,3.0,4810.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1260.0,2800.0
+,,,,10999.0,74.0,8.0,2.0,6000.0,1.0,15.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,1024.0,2408.0,1080.0
+,,,,11999.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,60.0,4.0,1.0,64.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,16999.0,79.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,30990.0,83.0,8.0,2.0,4500.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,17999.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,120.0,2.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,5499.0,0.0,4.0,2.0,4000.0,0.0,0.0,4.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,0.0,0.0,720.0,1560.0
+,,,,20499.0,83.0,8.0,2.0,5200.0,1.0,67.0,6.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,512.0,1080.0,2460.0
+,,,,20490.0,81.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,15490.0,77.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,8.0,1.0,0.0,1080.0,2400.0
+,,,,29990.0,61.0,6.0,2.0,2050.0,1.0,0.0,3.0,64.0,4.0,60.0,1.0,1.0,12.0,7.0,0.0,0.0,750.0,1334.0
+,,,,15499.0,79.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,120.0,2.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,11999.0,80.0,8.0,2.0,5000.0,1.0,33.0,6.0,64.0,6.0,60.0,4.0,1.0,64.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,10999.0,74.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,256.0,1080.0,2412.0
+,,,,21990.0,82.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,0.0,1080.0,2408.0
+,,,,31999.0,85.0,8.0,2.0,4500.0,1.0,44.0,12.0,256.0,6.0,90.0,3.0,1.0,64.0,50.0,1.0,1024.0,1080.0,2408.0
+,,,,11999.0,77.0,8.0,2.0,5000.0,1.0,33.0,6.0,64.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,36999.0,89.0,8.0,2.0,4500.0,1.0,180.0,8.0,256.0,6.0,120.0,3.0,1.0,200.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,6999.0,62.0,4.0,2.0,5000.0,1.0,10.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,39999.0,89.0,8.0,3.0,4600.0,1.0,125.0,8.0,128.0,6.0,165.0,3.0,1.0,50.0,60.0,0.0,0.0,1080.0,2400.0
+,,,,14999.0,78.0,8.0,2.0,5000.0,1.0,25.0,4.0,128.0,6.0,120.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,14499.0,79.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,27999.0,84.0,8.0,3.0,4200.0,1.0,120.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,20499.0,86.0,8.0,2.0,5000.0,1.0,30.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,8099.0,60.0,4.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,1.0,1.0,13.0,8.0,1.0,128.0,720.0,1600.0
+,,,,10999.0,65.0,4.0,1.0,5000.0,1.0,10.0,8.0,128.0,6.0,60.0,2.0,1.0,13.0,5.0,0.0,0.0,720.0,1600.0
+,,,,3499.0,63.0,8.0,2.0,4000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,128.0,720.0,1560.0
+,,,,9990.0,0.0,8.0,2.0,2150.0,0.0,0.0,4.0,64.0,3.0,60.0,1.0,1.0,8.0,2.0,1.0,0.0,640.0,960.0
+,,,,34999.0,85.0,8.0,2.0,6000.0,1.0,25.0,6.0,128.0,6.0,90.0,3.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2412.0
+,,,,46999.0,0.0,8.0,3.0,6000.0,1.0,65.0,12.0,256.0,6.0,120.0,1.0,1.0,200.0,32.0,1.0,0.0,1400.0,3200.0
+,,,,39999.0,88.0,8.0,2.0,4400.0,1.0,68.0,8.0,128.0,6.0,144.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,11828.0,70.0,8.0,1.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,45999.0,86.0,8.0,2.0,4500.0,1.0,80.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,18999.0,81.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,17999.0,84.0,8.0,2.0,5000.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,8499.0,66.0,8.0,2.0,5000.0,1.0,15.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,17999.0,76.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,0.0,720.0,1600.0
+,,,,14450.0,75.0,8.0,2.0,5000.0,1.0,25.0,4.0,64.0,6.0,60.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,54999.0,0.0,8.0,3.0,4610.0,1.0,125.0,8.0,128.0,6.0,144.0,3.0,1.0,200.0,60.0,0.0,0.0,1080.0,2400.0
+,,,,71999.0,0.0,8.0,3.0,5000.0,1.0,120.0,12.0,256.0,6.0,120.0,4.0,1.0,108.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,12999.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,0.0,2460.0,1080.0
+,,,,11499.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,35999.0,87.0,8.0,2.0,4500.0,1.0,33.0,12.0,256.0,6.0,120.0,2.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,34999.0,76.0,8.0,0.0,5000.0,1.0,25.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,11999.0,73.0,8.0,2.0,6000.0,1.0,18.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,512.0,720.0,1600.0
+,,,,27994.0,82.0,8.0,2.0,5000.0,1.0,67.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,139990.0,77.0,6.0,0.0,4323.0,1.0,0.0,6.0,256.0,6.0,120.0,3.0,1.0,48.0,12.0,0.0,0.0,1290.0,2796.0
+,,,,39999.0,86.0,8.0,3.0,4830.0,1.0,66.0,12.0,256.0,6.0,120.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2376.0
+,,,,15499.0,79.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,18999.0,80.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,256.0,1080.0,2412.0
+,,,,10999.0,73.0,8.0,2.0,5000.0,0.0,0.0,4.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,1024.0,1600.0,720.0
+,,,,27999.0,81.0,8.0,2.0,5100.0,1.0,40.0,8.0,256.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,81999.0,0.0,8.0,2.0,5000.0,1.0,30.0,12.0,128.0,6.0,120.0,3.0,1.0,50.0,10.0,0.0,0.0,1440.0,3120.0
+,,,,9999.0,74.0,8.0,2.0,7000.0,1.0,33.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,256.0,1080.0,2460.0
+,,,,31994.0,85.0,8.0,3.0,4300.0,1.0,44.0,8.0,128.0,6.0,90.0,3.0,2.0,108.0,50.0,0.0,0.0,1080.0,2376.0
+,,,,9299.0,65.0,8.0,2.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,29990.0,84.0,8.0,3.0,5500.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1440.0,3200.0
+,,,,25900.0,78.0,8.0,2.0,4500.0,1.0,60.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,16999.0,78.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,24999.0,85.0,8.0,2.0,4020.0,1.0,33.0,8.0,128.0,6.0,144.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,12188.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,64.0,6.0,90.0,4.0,1.0,50.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,8999.0,0.0,8.0,0.0,5000.0,1.0,10.0,3.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,7499.0,68.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,17999.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,24999.0,79.0,8.0,3.0,5000.0,1.0,80.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,45999.0,86.0,8.0,2.0,4500.0,1.0,80.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,65499.0,0.0,8.0,3.0,5000.0,1.0,80.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3216.0
+,,,,58990.0,89.0,8.0,3.0,4700.0,1.0,200.0,8.0,256.0,6.0,144.0,3.0,1.0,50.0,16.0,0.0,0.0,1440.0,3200.0
+,,,,11999.0,74.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,0.0,1080.0,2408.0
+,,,,11999.0,77.0,8.0,2.0,6000.0,1.0,18.0,8.0,128.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,0.0,720.0,1650.0
+,,,,18990.0,76.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,1024.0,720.0,1612.0
+,,,,14499.0,77.0,8.0,2.0,5000.0,1.0,44.0,4.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,106990.0,0.0,8.0,3.0,4500.0,1.0,67.0,12.0,256.0,8.0,120.0,3.0,1.0,50.0,20.0,0.0,0.0,1914.0,2160.0
+,,,,10499.0,66.0,8.0,2.0,5000.0,1.0,10.0,3.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,0.0,720.0,1600.0
+,,,,26990.0,86.0,8.0,2.0,4500.0,1.0,33.0,8.0,256.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,19990.0,82.0,8.0,2.0,4050.0,1.0,44.0,8.0,128.0,6.0,60.0,3.0,1.0,50.0,44.0,1.0,1024.0,1080.0,2400.0
+,,,,24999.0,89.0,8.0,2.0,4300.0,1.0,120.0,8.0,256.0,6.0,120.0,3.0,1.0,200.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,13969.0,69.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,0.0,720.0,1612.0
+,,,,44999.0,83.0,8.0,0.0,5000.0,1.0,67.0,8.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2412.0
+,,,,24999.0,84.0,8.0,2.0,4700.0,1.0,66.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2404.0
+,,,,53100.0,86.0,8.0,2.0,4355.0,1.0,30.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,10.0,0.0,0.0,1080.0,2400.0
+,,,,16999.0,81.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,21899.0,82.0,8.0,2.0,4500.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,32.0,1.0,512.0,1080.0,2400.0
+,,,,75999.0,82.0,6.0,3.0,3279.0,1.0,0.0,6.0,256.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,25999.0,85.0,8.0,2.0,5000.0,1.0,30.0,8.0,256.0,6.0,120.0,2.0,1.0,50.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,46990.0,84.0,8.0,3.0,6000.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1116.0,2480.0
+,,,,9999.0,75.0,8.0,2.0,5000.0,1.0,20.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,13.0,1.0,1024.0,1080.0,2400.0
+,,,,49999.0,89.0,8.0,3.0,5160.0,1.0,45.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,17999.0,87.0,8.0,2.0,4500.0,1.0,45.0,8.0,128.0,6.0,90.0,3.0,1.0,108.0,60.0,1.0,2048.0,1080.0,2400.0
+,,,,16940.0,80.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,17990.0,81.0,8.0,2.0,5000.0,1.0,67.0,6.0,64.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,20990.0,84.0,8.0,2.0,4800.0,1.0,67.0,8.0,128.0,6.0,120.0,2.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,51999.0,79.0,8.0,0.0,4200.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,12.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,64449.0,87.0,8.0,3.0,4500.0,1.0,45.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,10.0,0.0,0.0,1080.0,2340.0
+,,,,8990.0,71.0,8.0,2.0,5000.0,1.0,18.0,6.0,64.0,6.0,90.0,2.0,1.0,13.0,8.0,0.0,0.0,1080.0,2408.0
+,,,,19999.0,77.0,8.0,2.0,5000.0,1.0,30.0,4.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,512.0,720.0,1600.0
+,,,,13499.0,79.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,15499.0,78.0,8.0,2.0,6000.0,1.0,18.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,512.0,1080.0,2460.0
+,,,,6499.0,65.0,8.0,2.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,71999.0,60.0,0.0,0.0,3060.0,1.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,12.0,7.0,0.0,0.0,828.0,1792.0
+,,,,36499.0,89.0,8.0,2.0,5000.0,1.0,25.0,8.0,256.0,6.0,120.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,15999.0,78.0,8.0,2.0,5000.0,1.0,33.0,6.0,64.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,2048.0,1080.0,2400.0
+,,,,31994.0,87.0,8.0,3.0,4500.0,1.0,65.0,12.0,256.0,6.0,90.0,3.0,1.0,50.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,34999.0,84.0,8.0,3.0,5000.0,1.0,100.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,18999.0,81.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,4.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,39990.0,88.0,8.0,3.0,4700.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,16499.0,82.0,8.0,2.0,5000.0,1.0,15.0,8.0,128.0,6.0,90.0,4.0,1.0,64.0,20.0,1.0,1024.0,1080.0,2400.0
+,,,,54300.0,89.0,8.0,2.0,5003.0,1.0,30.0,12.0,128.0,6.0,120.0,3.0,1.0,50.0,11.0,0.0,0.0,1440.0,3120.0
+,,,,9999.0,73.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,15990.0,77.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,2.0,1.0,50.0,5.0,1.0,512.0,1080.0,2408.0
+,,,,22700.0,86.0,8.0,2.0,5000.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,50990.0,89.0,8.0,3.0,4600.0,1.0,120.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,64900.0,79.0,6.0,3.0,2438.0,1.0,0.0,4.0,128.0,5.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1080.0,2340.0
+,,,,13799.0,77.0,8.0,2.0,7000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,256.0,1080.0,2460.0
+,,,,8999.0,65.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,89999.0,88.0,8.0,3.0,6000.0,1.0,65.0,18.0,512.0,6.0,165.0,3.0,1.0,50.0,12.0,0.0,0.0,1080.0,2448.0
+,,,,21994.0,84.0,8.0,2.0,4050.0,1.0,44.0,8.0,128.0,6.0,60.0,3.0,1.0,50.0,44.0,1.0,0.0,1080.0,2400.0
+,,,,69990.0,70.0,0.0,0.0,3500.0,1.0,0.0,6.0,128.0,5.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1080.0,2340.0
+,,,,12999.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,48.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,24990.0,83.0,8.0,3.0,5000.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,19990.0,82.0,8.0,2.0,5000.0,1.0,25.0,8.0,128.0,6.0,60.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,26999.0,82.0,8.0,2.0,5000.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,19999.0,81.0,8.0,2.0,5000.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,16900.0,83.0,8.0,2.0,5000.0,1.0,33.0,8.0,256.0,6.0,60.0,3.0,1.0,108.0,16.0,1.0,2048.0,1080.0,2400.0
+,,,,19999.0,78.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,120.0,2.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,182999.0,78.0,6.0,0.0,4323.0,1.0,0.0,6.0,1024.0,6.0,120.0,3.0,1.0,48.0,12.0,0.0,0.0,1290.0,2796.0
+,,,,12999.0,75.0,8.0,2.0,6000.0,1.0,15.0,6.0,128.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,15999.0,82.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,13999.0,82.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,60.0,4.0,1.0,64.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,7749.0,61.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,0.0,720.0,1600.0
+,,,,24999.0,81.0,8.0,2.0,5000.0,1.0,25.0,8.0,128.0,6.0,120.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,59999.0,0.0,8.0,3.0,4610.0,1.0,125.0,12.0,256.0,6.0,144.0,3.0,1.0,200.0,60.0,0.0,0.0,1080.0,2400.0
+,,,,25895.0,82.0,8.0,2.0,4500.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,46990.0,89.0,8.0,3.0,4500.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,7499.0,64.0,8.0,2.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,7790.0,60.0,8.0,2.0,5000.0,1.0,10.0,2.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,0.0,720.0,1600.0
+,,,,25999.0,85.0,8.0,2.0,5080.0,1.0,67.0,8.0,256.0,6.0,144.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,6299.0,60.0,8.0,1.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,12999.0,77.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,120.0,3.0,1.0,50.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,11999.0,75.0,8.0,2.0,6000.0,1.0,18.0,6.0,128.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,512.0,720.0,1600.0
+,,,,21890.0,83.0,8.0,2.0,4250.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,64.0,20.0,1.0,0.0,1080.0,2400.0
+,,,,69999.0,84.0,8.0,2.0,3300.0,1.0,15.0,8.0,128.0,6.0,120.0,2.0,1.0,12.0,10.0,0.0,0.0,1080.0,2640.0
+,,,,55999.0,75.0,6.0,3.0,0.0,0.0,0.0,4.0,128.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,55999.0,87.0,8.0,3.0,4800.0,1.0,150.0,16.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,14999.0,75.0,8.0,2.0,5000.0,1.0,25.0,4.0,128.0,6.0,60.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,25994.0,85.0,8.0,2.0,4500.0,1.0,65.0,8.0,256.0,6.0,90.0,3.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,42999.0,85.0,8.0,2.0,4500.0,1.0,0.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,33499.0,89.0,8.0,2.0,5000.0,1.0,25.0,8.0,128.0,6.0,120.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,118999.0,0.0,8.0,3.0,5000.0,1.0,45.0,12.0,512.0,6.0,120.0,4.0,1.0,108.0,40.0,0.0,0.0,1440.0,3080.0
+,,,,16999.0,80.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,6990.0,0.0,4.0,1.0,4000.0,0.0,0.0,2.0,32.0,6.0,60.0,3.0,1.0,8.0,8.0,1.0,32.0,1600.0,720.0
+,,,,29990.0,82.0,8.0,2.0,5000.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,2.0,50.0,50.0,0.0,0.0,1080.0,2400.0
+,,,,12944.0,71.0,8.0,2.0,5000.0,1.0,15.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,29990.0,84.0,8.0,3.0,5000.0,1.0,80.0,8.0,128.0,6.0,144.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,16999.0,80.0,8.0,2.0,4800.0,1.0,66.0,8.0,128.0,6.0,60.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2388.0
+,,,,64999.0,89.0,8.0,3.0,5000.0,1.0,120.0,16.0,256.0,6.0,144.0,3.0,1.0,50.0,16.0,0.0,0.0,1440.0,3200.0
+,,,,154998.0,0.0,8.0,3.0,4400.0,1.0,25.0,12.0,256.0,7.0,120.0,3.0,2.0,50.0,10.0,0.0,0.0,1812.0,2176.0
+,,,,109999.0,87.0,8.0,2.0,4450.0,0.0,0.0,8.0,128.0,7.0,60.0,3.0,1.0,64.0,32.0,0.0,0.0,1440.0,1920.0
+,,,,84999.0,83.0,6.0,3.0,4325.0,1.0,0.0,6.0,256.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1284.0,2778.0
+,,,,27499.0,85.0,8.0,2.0,5000.0,1.0,25.0,8.0,128.0,6.0,90.0,4.0,1.0,48.0,13.0,1.0,1024.0,1080.0,2400.0
+,,,,8999.0,69.0,8.0,2.0,5000.0,0.0,0.0,6.0,128.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1600.0
+,,,,40480.0,84.0,8.0,2.0,4614.0,1.0,30.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,0.0,0.0,1080.0,2400.0
+,,,,17999.0,81.0,8.0,2.0,5020.0,1.0,33.0,6.0,128.0,6.0,120.0,4.0,1.0,64.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,105999.0,0.0,8.0,2.0,5000.0,1.0,25.0,12.0,256.0,6.0,120.0,4.0,1.0,108.0,40.0,0.0,0.0,1440.0,3200.0
+,,,,8999.0,67.0,8.0,2.0,6000.0,1.0,18.0,4.0,64.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1640.0
+,,,,14999.0,77.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,0.0,1080.0,2408.0
+,,,,19990.0,82.0,8.0,2.0,4500.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,32.0,1.0,256.0,1080.0,2400.0
+,,,,23399.0,80.0,8.0,2.0,4700.0,1.0,66.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2404.0
+,,,,41990.0,0.0,8.0,2.0,5000.0,1.0,25.0,8.0,256.0,6.0,120.0,4.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,22998.0,82.0,8.0,2.0,5000.0,1.0,30.0,8.0,128.0,6.0,144.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,25999.0,82.0,8.0,3.0,4500.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,11700.0,74.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,512.0,2400.0,1080.0
+,,,,6499.0,0.0,4.0,1.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,15999.0,84.0,8.0,2.0,6000.0,1.0,20.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2460.0
+,,,,64800.0,89.0,8.0,2.0,4500.0,1.0,65.0,8.0,128.0,6.0,120.0,4.0,1.0,48.0,16.0,0.0,0.0,1440.0,3216.0
+,,,,14590.0,80.0,8.0,2.0,5000.0,1.0,33.0,6.0,64.0,6.0,90.0,4.0,1.0,108.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,7499.0,68.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,21999.0,82.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,11999.0,71.0,8.0,2.0,5000.0,1.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,12999.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,20990.0,81.0,8.0,2.0,4500.0,1.0,33.0,6.0,128.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,72999.0,79.0,6.0,3.0,3240.0,1.0,0.0,4.0,256.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,77990.0,0.0,8.0,3.0,4700.0,1.0,120.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,56999.0,0.0,8.0,3.0,4870.0,1.0,120.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1260.0,2800.0
+,,,,21999.0,79.0,8.0,2.0,5000.0,1.0,10.0,4.0,128.0,6.0,120.0,2.0,1.0,50.0,16.0,1.0,1024.0,720.0,1600.0
+,,,,9499.0,75.0,8.0,2.0,5000.0,1.0,20.0,4.0,64.0,6.0,90.0,4.0,1.0,50.0,16.0,1.0,1024.0,720.0,1600.0
+,,,,7499.0,66.0,8.0,2.0,5000.0,1.0,10.0,4.0,64.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,4649.0,0.0,4.0,1.0,3500.0,0.0,0.0,2.0,32.0,5.0,60.0,1.0,1.0,13.0,8.0,1.0,512.0,720.0,1440.0
+,,,,18000.0,62.0,8.0,2.0,4030.0,0.0,0.0,4.0,32.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,256.0,1520.0,720.0
+,,,,38999.0,85.0,8.0,3.0,5000.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,54.0,16.0,0.0,0.0,1440.0,3200.0
+,,,,7145.0,0.0,8.0,1.0,5000.0,1.0,10.0,2.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,14990.0,77.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,1024.0,1612.0,720.0
+,,,,15499.0,70.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,8.0,1.0,0.0,720.0,1600.0
+,,,,9999.0,69.0,8.0,2.0,5000.0,0.0,0.0,6.0,128.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,29999.0,86.0,8.0,3.0,4500.0,1.0,67.0,12.0,256.0,6.0,120.0,3.0,1.0,64.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,15999.0,84.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,108.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,59990.0,89.0,8.0,3.0,5000.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,200.0,20.0,0.0,0.0,1220.0,2712.0
+,,,,34990.0,84.0,8.0,2.0,4350.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2376.0
+,,,,45999.0,75.0,6.0,3.0,0.0,0.0,0.0,4.0,128.0,5.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1080.0,2340.0
+,,,,119990.0,85.0,8.0,0.0,5100.0,1.0,45.0,12.0,256.0,6.0,144.0,4.0,1.0,200.0,60.0,0.0,0.0,1200.0,2860.0
+,,,,89990.0,88.0,8.0,3.0,4300.0,1.0,44.0,8.0,128.0,6.0,120.0,2.0,1.0,50.0,32.0,0.0,0.0,1200.0,2400.0
+,,,,50999.0,87.0,8.0,3.0,4800.0,1.0,150.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,7999.0,65.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1600.0
+,,,,43999.0,88.0,8.0,2.0,4500.0,1.0,25.0,8.0,256.0,6.0,120.0,3.0,1.0,12.0,32.0,0.0,0.0,1080.0,2340.0
+,,,,18499.0,83.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,134999.0,0.0,8.0,2.0,4500.0,1.0,30.0,12.0,512.0,6.0,120.0,3.0,1.0,12.0,8.0,1.0,1024.0,1644.0,3840.0
+,,,,32999.0,85.0,8.0,2.0,4300.0,1.0,33.0,8.0,128.0,6.0,60.0,4.0,2.0,64.0,44.0,0.0,0.0,1080.0,2400.0
+,,,,13499.0,80.0,8.0,2.0,6000.0,1.0,33.0,6.0,64.0,6.0,120.0,4.0,1.0,64.0,20.0,1.0,512.0,1080.0,2400.0
+,,,,35489.0,86.0,8.0,2.0,4500.0,1.0,25.0,8.0,128.0,6.0,120.0,3.0,1.0,12.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,20120.0,78.0,8.0,2.0,2800.0,1.0,0.0,6.0,64.0,5.0,60.0,2.0,2.0,16.0,8.0,0.0,0.0,1080.0,2280.0
+,,,,42999.0,81.0,8.0,2.0,4100.0,1.0,15.0,8.0,128.0,6.0,60.0,3.0,2.0,16.0,10.0,1.0,512.0,1440.0,3040.0
+,,,,24999.0,78.0,8.0,2.0,4200.0,1.0,66.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,20999.0,82.0,8.0,2.0,4500.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,32.0,1.0,256.0,1080.0,2400.0
+,,,,28994.0,84.0,8.0,2.0,5000.0,1.0,65.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,48900.0,88.0,8.0,2.0,4000.0,1.0,25.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,10.0,0.0,0.0,1080.0,2400.0
+,,,,22494.0,86.0,8.0,2.0,4500.0,1.0,25.0,8.0,128.0,6.0,60.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,8990.0,61.0,8.0,2.0,5000.0,1.0,10.0,3.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,0.0,720.0,1600.0
+,,,,6999.0,0.0,8.0,0.0,4000.0,0.0,0.0,4.0,32.0,6.0,60.0,3.0,1.0,13.0,8.0,0.0,0.0,720.0,1560.0
+,,,,8890.0,63.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1612.0
+,,,,18498.0,82.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,23999.0,81.0,8.0,2.0,4700.0,1.0,66.0,6.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2404.0
+,,,,22994.0,81.0,8.0,2.0,4500.0,1.0,60.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,12990.0,71.0,8.0,2.0,5000.0,1.0,15.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,14999.0,78.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,18499.0,80.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,14990.0,78.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,60.0,3.0,1.0,48.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,70990.0,88.0,8.0,3.0,4300.0,1.0,44.0,8.0,256.0,6.0,120.0,2.0,1.0,50.0,32.0,0.0,0.0,1080.0,2520.0
+,,,,12120.0,75.0,8.0,2.0,6000.0,1.0,15.0,4.0,64.0,6.0,90.0,4.0,1.0,64.0,20.0,1.0,1024.0,1080.0,2400.0
+,,,,29990.0,84.0,8.0,2.0,21000.0,1.0,33.0,8.0,256.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,20999.0,82.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,256.0,1080.0,2412.0
+,,,,11999.0,80.0,8.0,2.0,5020.0,1.0,18.0,6.0,128.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,17990.0,73.0,8.0,2.0,5000.0,1.0,15.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,5.0,1.0,0.0,720.0,1600.0
+,,,,14990.0,77.0,8.0,2.0,5000.0,1.0,33.0,4.0,128.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,6490.0,0.0,4.0,1.0,5000.0,0.0,0.0,1.0,16.0,6.0,60.0,2.0,1.0,8.0,8.0,0.0,0.0,1600.0,720.0
+,,,,34999.0,83.0,8.0,3.0,4600.0,1.0,240.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,149900.0,79.0,8.0,0.0,4700.0,1.0,0.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,12.0,0.0,0.0,1290.0,2796.0
+,,,,6499.0,0.0,4.0,2.0,5000.0,1.0,10.0,2.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,720.0,1600.0
+,,,,104999.0,0.0,8.0,3.0,4500.0,1.0,67.0,12.0,256.0,6.0,120.0,3.0,1.0,200.0,10.0,1.0,1024.0,1440.0,3214.0
+,,,,13999.0,75.0,8.0,2.0,5000.0,1.0,33.0,4.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,16999.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,64.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,79999.0,0.0,8.0,3.0,4700.0,1.0,80.0,12.0,256.0,6.0,120.0,4.0,1.0,50.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,36760.0,87.0,8.0,3.0,4500.0,1.0,65.0,12.0,256.0,6.0,90.0,4.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,23499.0,81.0,8.0,2.0,5160.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,2400.0,1080.0
+,,,,75990.0,87.0,8.0,3.0,6000.0,1.0,120.0,18.0,256.0,6.0,165.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2448.0
+,,,,21990.0,76.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,2.0,1.0,48.0,8.0,1.0,0.0,720.0,1600.0
+,,,,18999.0,80.0,8.0,2.0,5000.0,1.0,30.0,6.0,128.0,6.0,144.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,7249.0,66.0,8.0,1.0,5000.0,1.0,15.0,3.0,32.0,6.0,60.0,2.0,1.0,48.0,5.0,1.0,1024.0,720.0,1560.0
+,,,,16990.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,13.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,23890.0,80.0,8.0,3.0,4520.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,48.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,26380.0,83.0,8.0,2.0,4300.0,1.0,65.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,27999.0,87.0,8.0,2.0,4200.0,1.0,65.0,12.0,256.0,6.0,90.0,4.0,2.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,10850.0,70.0,8.0,2.0,5000.0,0.0,0.0,6.0,128.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,19999.0,81.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,129990.0,76.0,6.0,0.0,3200.0,1.0,0.0,6.0,256.0,6.0,120.0,3.0,1.0,48.0,12.0,0.0,0.0,1179.0,2556.0
+,,,,19990.0,81.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,41990.0,0.0,8.0,3.0,4450.0,1.0,125.0,8.0,128.0,6.0,144.0,3.0,1.0,200.0,60.0,0.0,0.0,1080.0,2400.0
+,,,,69990.0,0.0,8.0,3.0,4860.0,1.0,67.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,39990.0,88.0,8.0,2.0,4800.0,1.0,66.0,12.0,512.0,6.0,120.0,3.0,1.0,54.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,74999.0,0.0,8.0,3.0,5000.0,1.0,80.0,12.0,512.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3216.0
+,,,,36994.0,87.0,8.0,3.0,4300.0,1.0,44.0,12.0,256.0,6.0,90.0,3.0,2.0,108.0,50.0,0.0,0.0,1080.0,2376.0
+,,,,14700.0,76.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,256.0,720.0,1600.0
+,,,,34990.0,86.0,8.0,2.0,5000.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,34999.0,76.0,0.0,0.0,6000.0,1.0,33.0,6.0,64.0,6.0,60.0,4.0,1.0,108.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,13990.0,75.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,650000.0,62.0,8.0,1.0,2275.0,0.0,0.0,2.0,64.0,4.0,60.0,1.0,1.0,13.0,2.0,0.0,0.0,1080.0,1920.0
+,,,,14859.0,79.0,8.0,2.0,6000.0,1.0,15.0,6.0,128.0,6.0,90.0,4.0,1.0,64.0,20.0,1.0,1024.0,1080.0,2400.0
+,,,,17999.0,84.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,32.0,1.0,512.0,1080.0,2460.0
+,,,,34990.0,85.0,8.0,3.0,4700.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,14990.0,85.0,8.0,2.0,5000.0,1.0,0.0,8.0,128.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,0.0,1080.0,2460.0
+,,,,8999.0,65.0,8.0,2.0,4230.0,0.0,0.0,3.0,32.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,8999.0,71.0,8.0,2.0,5000.0,1.0,10.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,15824.0,84.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,4.0,1.0,108.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,43900.0,0.0,6.0,3.0,0.0,0.0,0.0,4.0,64.0,4.0,60.0,1.0,1.0,12.0,7.0,0.0,0.0,750.0,1334.0
+,,,,22494.0,86.0,8.0,2.0,4500.0,1.0,25.0,8.0,128.0,6.0,90.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,19650.0,82.0,8.0,2.0,5160.0,1.0,33.0,6.0,128.0,6.0,120.0,4.0,1.0,48.0,20.0,1.0,0.0,1080.0,2400.0
+,,,,6999.0,61.0,8.0,2.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,16499.0,80.0,8.0,2.0,5000.0,1.0,15.0,6.0,128.0,6.0,90.0,4.0,1.0,64.0,20.0,1.0,1024.0,1080.0,2400.0
+,,,,15999.0,75.0,8.0,2.0,5000.0,1.0,10.0,4.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,512.0,720.0,1600.0
+,,,,72999.0,88.0,8.0,3.0,6000.0,1.0,65.0,16.0,256.0,6.0,165.0,3.0,1.0,50.0,12.0,0.0,0.0,1080.0,2448.0
+,,,,26999.0,84.0,8.0,2.0,4980.0,1.0,120.0,6.0,128.0,6.0,120.0,3.0,1.0,200.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,6999.0,0.0,4.0,2.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,720.0,1600.0
+,,,,130990.0,75.0,0.0,0.0,0.0,0.0,0.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,12787.0,71.0,8.0,1.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,9999.0,72.0,8.0,2.0,6000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,512.0,720.0,1640.0
+,,,,54999.0,86.0,8.0,3.0,4500.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,15490.0,79.0,8.0,2.0,5000.0,1.0,19.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,25999.0,84.0,8.0,2.0,4700.0,1.0,33.0,8.0,256.0,6.0,90.0,3.0,2.0,50.0,48.0,0.0,0.0,1080.0,2340.0
+,,,,9499.0,68.0,8.0,2.0,5000.0,1.0,15.0,4.0,128.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,7999.0,70.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,512.0,720.0,1650.0
+,,,,63990.0,86.0,8.0,3.0,4300.0,1.0,30.0,8.0,128.0,5.0,120.0,2.0,1.0,50.0,12.0,0.0,0.0,1080.0,2400.0
+,,,,15990.0,73.0,8.0,2.0,4000.0,1.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,512.0,720.0,1680.0
+,,,,34949.0,85.0,8.0,2.0,4500.0,1.0,66.0,12.0,256.0,6.0,120.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,8799.0,72.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,60.0,3.0,1.0,48.0,8.0,1.0,0.0,1080.0,2460.0
+,,,,12390.0,74.0,8.0,2.0,6000.0,1.0,18.0,4.0,64.0,6.0,90.0,4.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,11499.0,73.0,8.0,2.0,6000.0,0.0,0.0,4.0,64.0,6.0,90.0,4.0,1.0,48.0,13.0,1.0,1024.0,720.0,1600.0
+,,,,199990.0,0.0,8.0,2.0,4050.0,1.0,40.0,12.0,512.0,7.0,60.0,3.0,0.0,108.0,0.0,0.0,0.0,2088.0,2250.0
+,,,,42990.0,86.0,8.0,3.0,5000.0,1.0,120.0,16.0,256.0,6.0,120.0,2.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,34999.0,82.0,8.0,3.0,5000.0,1.0,80.0,8.0,128.0,6.0,144.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,11999.0,75.0,8.0,2.0,6000.0,1.0,15.0,4.0,128.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,1024.0,2408.0,1080.0
+,,,,10499.0,70.0,8.0,1.0,5000.0,1.0,10.0,4.0,64.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,512.0,720.0,1600.0
+,,,,8910.0,66.0,8.0,1.0,6000.0,1.0,18.0,4.0,64.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,256.0,1640.0,720.0
+,,,,24990.0,85.0,8.0,3.0,4700.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,17999.0,84.0,8.0,2.0,4500.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,22999.0,86.0,8.0,2.0,4250.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,20.0,1.0,0.0,1080.0,2400.0
+,,,,6490.0,0.0,8.0,1.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,256.0,720.0,1600.0
+,,,,21990.0,85.0,8.0,2.0,4500.0,1.0,45.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,12364.0,76.0,8.0,2.0,6000.0,1.0,15.0,4.0,64.0,6.0,90.0,4.0,1.0,64.0,20.0,1.0,1024.0,1080.0,2400.0
+,,,,39990.0,86.0,8.0,2.0,4500.0,1.0,25.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,10.0,1.0,1024.0,1440.0,3200.0
+,,,,11999.0,77.0,8.0,2.0,4000.0,1.0,0.0,6.0,64.0,6.0,60.0,2.0,1.0,12.0,20.0,1.0,256.0,1080.0,2246.0
+,,,,7499.0,0.0,4.0,1.0,1900.0,0.0,0.0,1.0,16.0,4.0,60.0,1.0,1.0,5.0,2.0,1.0,128.0,480.0,854.0
+,,,,3990.0,60.0,8.0,1.0,3500.0,0.0,0.0,3.0,32.0,5.0,60.0,2.0,1.0,13.0,5.0,1.0,64.0,1080.0,1920.0
+,,,,10499.0,65.0,8.0,2.0,5000.0,1.0,10.0,2.0,64.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,6299.0,0.0,4.0,2.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,5990.0,0.0,4.0,1.0,3020.0,0.0,0.0,2.0,32.0,5.0,60.0,1.0,1.0,2.0,0.0,1.0,0.0,854.0,480.0
+,,,,113990.0,0.0,8.0,3.0,4730.0,1.0,80.0,12.0,256.0,8.0,120.0,4.0,2.0,50.0,16.0,0.0,0.0,1916.0,2160.0
+,,,,239999.0,81.0,8.0,3.0,4700.0,1.0,66.0,12.0,512.0,6.0,120.0,3.0,1.0,50.0,13.0,1.0,256.0,1212.0,2616.0
+,,,,21999.0,84.0,8.0,2.0,7000.0,1.0,33.0,6.0,128.0,6.0,60.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,15999.0,80.0,8.0,2.0,5000.0,1.0,44.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,69990.0,86.0,8.0,2.0,4000.0,1.0,21.0,8.0,128.0,6.0,120.0,3.0,1.0,12.0,8.0,1.0,0.0,1080.0,2520.0
+,,,,12990.0,71.0,8.0,2.0,5000.0,1.0,0.0,4.0,128.0,6.0,60.0,3.0,1.0,13.0,16.0,1.0,256.0,720.0,1544.0
+,,,,92980.0,0.0,8.0,3.0,5000.0,1.0,30.0,12.0,512.0,6.0,120.0,4.0,1.0,12.0,12.0,1.0,0.0,1644.0,3840.0
+,,,,15999.0,74.0,8.0,2.0,6000.0,1.0,45.0,8.0,256.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,23999.0,84.0,8.0,2.0,4500.0,1.0,66.0,8.0,256.0,6.0,90.0,3.0,1.0,108.0,16.0,1.0,0.0,1080.0,2160.0
+,,,,12999.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,0.0,1080.0,2408.0
+,,,,60990.0,86.0,8.0,3.0,5000.0,1.0,135.0,12.0,256.0,6.0,120.0,3.0,1.0,64.0,8.0,0.0,0.0,1080.0,2400.0
+,,,,8859.0,67.0,8.0,1.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,16.0,8.0,1.0,0.0,720.0,1600.0
+,,,,33749.0,84.0,8.0,3.0,4700.0,1.0,80.0,12.0,256.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,15990.0,63.0,8.0,0.0,5000.0,1.0,0.0,6.0,64.0,6.0,60.0,3.0,1.0,48.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,24990.0,84.0,8.0,2.0,5080.0,1.0,67.0,8.0,128.0,6.0,144.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,14999.0,76.0,8.0,2.0,5000.0,1.0,33.0,4.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,17990.0,76.0,8.0,2.0,4500.0,1.0,80.0,6.0,128.0,6.0,120.0,2.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2388.0
+,,,,24990.0,75.0,8.0,2.0,4300.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2340.0
+,,,,11600.0,74.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,8299.0,62.0,8.0,1.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,11999.0,78.0,8.0,2.0,5000.0,1.0,20.0,6.0,128.0,6.0,60.0,3.0,1.0,50.0,13.0,1.0,1024.0,1080.0,2400.0
+,,,,89999.0,88.0,8.0,3.0,3700.0,1.0,25.0,8.0,128.0,6.0,120.0,2.0,1.0,12.0,10.0,0.0,0.0,1080.0,2640.0
+,,,,27999.0,77.0,8.0,2.0,3300.0,0.0,0.0,8.0,128.0,6.0,60.0,2.0,1.0,20.0,16.0,0.0,0.0,1080.0,2280.0
+,,,,15990.0,69.0,8.0,2.0,3520.0,1.0,0.0,4.0,128.0,6.0,60.0,1.0,1.0,12.0,8.0,0.0,0.0,1440.0,2880.0
+,,,,7289.0,60.0,4.0,2.0,5000.0,1.0,10.0,2.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,720.0,1600.0
+,,,,30990.0,86.0,8.0,2.0,4800.0,1.0,66.0,8.0,256.0,6.0,120.0,3.0,1.0,54.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,15499.0,77.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,256.0,1080.0,2412.0
+,,,,8499.0,66.0,8.0,2.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,14490.0,80.0,8.0,2.0,6000.0,1.0,15.0,6.0,128.0,6.0,90.0,4.0,1.0,64.0,20.0,1.0,1024.0,1080.0,2400.0
+,,,,15490.0,80.0,8.0,2.0,5000.0,1.0,15.0,6.0,128.0,6.0,90.0,3.0,1.0,64.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,14990.0,78.0,8.0,2.0,5000.0,1.0,60.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,0.0,1080.0,2412.0
+,,,,15999.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,48.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,36000.0,82.0,8.0,2.0,4080.0,1.0,18.0,8.0,128.0,6.0,90.0,2.0,1.0,16.0,8.0,0.0,0.0,1080.0,2340.0
+,,,,69999.0,0.0,8.0,3.0,4800.0,1.0,150.0,12.0,256.0,6.0,144.0,3.0,1.0,108.0,32.0,0.0,0.0,1440.0,3412.0
+,,,,26990.0,86.0,8.0,2.0,4300.0,1.0,210.0,8.0,256.0,6.0,120.0,3.0,1.0,200.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,10630.0,71.0,8.0,2.0,6000.0,1.0,15.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,42990.0,85.0,8.0,2.0,4500.0,1.0,80.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,24990.0,77.0,8.0,3.0,4500.0,1.0,0.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,14489.0,77.0,8.0,2.0,5000.0,1.0,44.0,4.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,16490.0,73.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,0.0,720.0,1612.0
+,,,,24494.0,82.0,8.0,2.0,4500.0,1.0,60.0,8.0,256.0,6.0,90.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,7999.0,61.0,8.0,2.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,23990.0,85.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,144.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,49959.0,89.0,8.0,3.0,5000.0,1.0,65.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3216.0
+,,,,129900.0,83.0,6.0,3.0,3095.0,1.0,0.0,6.0,256.0,6.0,120.0,3.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,19990.0,80.0,8.0,2.0,4000.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,14990.0,67.0,8.0,0.0,5000.0,1.0,25.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,1024.0,2408.0,1080.0
+,,,,23269.0,85.0,8.0,2.0,4000.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,44.0,1.0,1024.0,1080.0,2400.0
+,,,,13999.0,75.0,8.0,2.0,5020.0,1.0,18.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,35389.0,85.0,8.0,2.0,5000.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,79700.0,0.0,8.0,2.0,5003.0,1.0,30.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,11.0,0.0,0.0,1440.0,3120.0
+,,,,9499.0,62.0,8.0,1.0,5050.0,1.0,10.0,3.0,32.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,12340.0,76.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,256.0,720.0,1612.0
+,,,,10799.0,74.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,14990.0,73.0,8.0,2.0,6000.0,1.0,18.0,4.0,128.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,512.0,720.0,1600.0
+,,,,61990.0,89.0,8.0,3.0,5000.0,1.0,65.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1116.0,2480.0
+,,,,51880.0,0.0,8.0,3.0,4600.0,1.0,120.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,16990.0,80.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,19990.0,84.0,8.0,2.0,4000.0,1.0,66.0,8.0,128.0,6.0,90.0,4.0,1.0,108.0,16.0,1.0,0.0,1080.0,2388.0
+,,,,57999.0,87.0,8.0,3.0,3700.0,1.0,25.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,10.0,0.0,0.0,1080.0,2340.0
+,,,,46990.0,87.0,8.0,3.0,5600.0,1.0,68.0,12.0,256.0,6.0,144.0,2.0,1.0,64.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,20990.0,77.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,0.0,1080.0,2408.0
+,,,,17990.0,82.0,8.0,2.0,4470.0,1.0,18.0,6.0,128.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,17499.0,82.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,17999.0,80.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,49990.0,0.0,8.0,3.0,6000.0,1.0,44.0,8.0,128.0,6.0,144.0,4.0,1.0,200.0,32.0,1.0,0.0,1080.0,2408.0
+,,,,14999.0,74.0,8.0,2.0,5000.0,1.0,33.0,4.0,128.0,6.0,120.0,3.0,1.0,48.0,8.0,0.0,0.0,1080.0,2400.0
+,,,,19980.0,82.0,8.0,2.0,5020.0,1.0,33.0,6.0,128.0,6.0,120.0,4.0,1.0,108.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,35990.0,85.0,8.0,3.0,4400.0,1.0,66.0,12.0,256.0,6.0,120.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,15999.0,78.0,8.0,2.0,5000.0,1.0,30.0,4.0,128.0,6.0,60.0,4.0,1.0,64.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,41999.0,88.0,8.0,2.0,4000.0,1.0,25.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,10.0,1.0,1024.0,1440.0,3200.0
+,,,,25999.0,83.0,8.0,3.0,5500.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,20.0,0.0,0.0,1440.0,3200.0
+,,,,7990.0,65.0,8.0,1.0,5000.0,1.0,18.0,3.0,32.0,6.0,90.0,3.0,1.0,16.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,29990.0,84.0,8.0,3.0,4500.0,1.0,80.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,27990.0,83.0,8.0,2.0,4500.0,1.0,65.0,8.0,128.0,6.0,90.0,4.0,1.0,50.0,16.0,1.0,256.0,1080.0,2460.0
+,,,,29999.0,84.0,8.0,3.0,5500.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1440.0,3200.0
+,,,,8999.0,68.0,8.0,2.0,4230.0,0.0,0.0,4.0,64.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,13999.0,81.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,11499.0,71.0,8.0,2.0,6000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,256.0,720.0,1600.0
+,,,,39999.0,87.0,8.0,2.0,6000.0,1.0,65.0,8.0,128.0,6.0,144.0,3.0,1.0,64.0,24.0,0.0,0.0,1080.0,2448.0
+,,,,27999.0,84.0,8.0,2.0,4300.0,1.0,65.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,24499.0,79.0,8.0,2.0,5000.0,1.0,15.0,6.0,128.0,6.0,90.0,4.0,1.0,48.0,13.0,1.0,1024.0,720.0,1600.0
+,,,,60999.0,86.0,8.0,3.0,5000.0,1.0,165.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1116.0,2480.0
+,,,,110999.0,89.0,8.0,2.0,4400.0,1.0,25.0,12.0,256.0,7.0,120.0,3.0,2.0,12.0,10.0,0.0,0.0,1768.0,2208.0
+,,,,54999.0,89.0,8.0,2.0,4000.0,1.0,0.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2460.0
+,,,,16490.0,80.0,8.0,2.0,5020.0,1.0,33.0,6.0,64.0,6.0,60.0,4.0,1.0,64.0,32.0,1.0,512.0,1080.0,2400.0
+,,,,24990.0,83.0,8.0,2.0,4500.0,1.0,25.0,6.0,128.0,6.0,90.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,25000.0,0.0,4.0,1.0,3360.0,0.0,0.0,3.0,16.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,0.0,720.0,1440.0
+,,,,9950.0,66.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,12999.0,75.0,8.0,2.0,5000.0,0.0,0.0,8.0,128.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,0.0,720.0,1612.0
+,,,,19999.0,83.0,8.0,2.0,5000.0,1.0,66.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,32999.0,84.0,8.0,2.0,5000.0,1.0,120.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,28498.0,81.0,8.0,2.0,4500.0,1.0,20.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,8.0,1.0,0.0,1080.0,2400.0
+,,,,15998.0,71.0,8.0,2.0,5000.0,1.0,33.0,4.0,128.0,6.0,60.0,2.0,1.0,50.0,8.0,1.0,0.0,720.0,1600.0
+,,,,59990.0,89.0,8.0,3.0,4800.0,1.0,125.0,8.0,128.0,6.0,165.0,3.0,1.0,50.0,60.0,0.0,0.0,1080.0,2460.0
+,,,,16990.0,78.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,27999.0,82.0,8.0,2.0,4700.0,1.0,66.0,12.0,256.0,6.0,90.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2404.0
+,,,,13499.0,75.0,8.0,1.0,5050.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,512.0,720.0,1600.0
+,,,,16499.0,78.0,8.0,2.0,5000.0,1.0,25.0,6.0,128.0,6.0,60.0,4.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,10999.0,66.0,8.0,2.0,4230.0,0.0,0.0,4.0,64.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,13990.0,71.0,8.0,2.0,6000.0,1.0,18.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,512.0,720.0,1600.0
+,,,,9999.0,74.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,48.0,32.0,1.0,0.0,1080.0,2460.0
+,,,,31994.0,83.0,8.0,2.0,5000.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,24820.0,83.0,8.0,2.0,4500.0,1.0,120.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,2400.0,1080.0
+,,,,22990.0,83.0,8.0,3.0,4700.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,59990.0,88.0,8.0,3.0,4700.0,1.0,120.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1440.0,3200.0
+,,,,8999.0,62.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,256.0,720.0,1600.0
+,,,,10499.0,72.0,8.0,2.0,5000.0,0.0,0.0,6.0,128.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,7499.0,0.0,4.0,1.0,3000.0,0.0,0.0,3.0,32.0,5.0,60.0,1.0,1.0,13.0,8.0,1.0,0.0,720.0,1440.0
+,,,,9990.0,75.0,8.0,2.0,4000.0,1.0,18.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,13.0,1.0,0.0,1080.0,2340.0
+,,,,12490.0,76.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,3.0,1.0,48.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,13990.0,69.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,256.0,720.0,1600.0
+,,,,17990.0,79.0,8.0,2.0,5000.0,1.0,15.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,24999.0,83.0,8.0,2.0,4000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,44.0,1.0,0.0,1080.0,2400.0
+,,,,21999.0,85.0,8.0,2.0,4500.0,1.0,65.0,8.0,128.0,6.0,60.0,4.0,1.0,64.0,32.0,1.0,256.0,1080.0,2400.0
+,,,,19999.0,77.0,8.0,2.0,4300.0,1.0,30.0,8.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,99999.0,0.0,8.0,2.0,5000.0,1.0,45.0,12.0,128.0,6.0,60.0,4.0,1.0,108.0,40.0,1.0,1024.0,1440.0,3200.0
+,,,,109900.0,77.0,6.0,2.0,3500.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,12.0,12.0,0.0,0.0,1242.0,2688.0
+,,,,52990.0,0.0,4.0,2.0,2230.0,0.0,0.0,3.0,32.0,4.0,60.0,1.0,1.0,13.0,7.0,0.0,0.0,750.0,1334.0
+,,,,19990.0,80.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,11499.0,69.0,8.0,2.0,5000.0,0.0,0.0,4.0,128.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,13999.0,75.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,120.0,3.0,1.0,48.0,13.0,1.0,1024.0,1080.0,2400.0
+,,,,22990.0,82.0,8.0,2.0,9800.0,1.0,66.0,12.0,256.0,6.0,120.0,3.0,1.0,64.0,0.0,0.0,0.0,1080.0,2400.0
+,,,,28990.0,84.0,8.0,2.0,5000.0,1.0,80.0,8.0,256.0,6.0,120.0,3.0,1.0,108.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,27999.0,85.0,8.0,3.0,4500.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,19990.0,82.0,8.0,2.0,5080.0,1.0,67.0,6.0,128.0,6.0,144.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2460.0
+,,,,22999.0,83.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,17999.0,82.0,8.0,2.0,5000.0,1.0,44.0,8.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,15499.0,81.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,90.0,4.0,1.0,108.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,17990.0,84.0,8.0,2.0,5000.0,1.0,30.0,8.0,128.0,6.0,90.0,4.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2460.0
+,,,,13999.0,77.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,256.0,1080.0,2412.0
+,,,,13499.0,73.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,256.0,720.0,1600.0
+,,,,14799.0,79.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,6999.0,62.0,8.0,1.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,11999.0,69.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,0.0,720.0,1600.0
+,,,,23994.0,85.0,8.0,2.0,4000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,44.0,1.0,0.0,1080.0,2400.0
+,,,,139900.0,80.0,6.0,3.0,0.0,0.0,0.0,6.0,512.0,6.0,60.0,3.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,69999.0,89.0,8.0,2.0,4000.0,1.0,21.0,8.0,256.0,6.0,60.0,4.0,1.0,12.0,8.0,1.0,0.0,1644.0,3840.0
+,,,,57999.0,89.0,8.0,2.0,5000.0,1.0,18.0,12.0,256.0,6.0,90.0,3.0,1.0,108.0,25.0,0.0,0.0,1080.0,2340.0
+,,,,86000.0,87.0,8.0,2.0,4300.0,1.0,25.0,8.0,256.0,6.0,60.0,3.0,1.0,64.0,10.0,0.0,0.0,1080.0,2400.0
+,,,,11999.0,71.0,8.0,2.0,5000.0,1.0,15.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,8.0,1.0,0.0,720.0,1560.0
+,,,,14999.0,77.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,26499.0,81.0,8.0,3.0,5000.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,8990.0,62.0,8.0,1.0,5000.0,1.0,10.0,4.0,64.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,95999.0,82.0,6.0,3.0,3279.0,1.0,0.0,6.0,512.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,47990.0,85.0,8.0,3.0,4700.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,17990.0,81.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2460.0
+,,,,22999.0,83.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,0.0,1080.0,2412.0
+,,,,99990.0,0.0,8.0,3.0,5000.0,1.0,45.0,8.0,128.0,6.0,120.0,4.0,1.0,108.0,40.0,0.0,0.0,1440.0,3080.0
+,,,,39999.0,86.0,8.0,3.0,4700.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,38999.0,88.0,8.0,2.0,5000.0,1.0,120.0,12.0,256.0,6.0,120.0,3.0,1.0,108.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,12490.0,63.0,8.0,2.0,5000.0,0.0,0.0,4.0,128.0,6.0,60.0,2.0,1.0,13.0,8.0,0.0,0.0,720.0,1600.0
+,,,,39990.0,86.0,8.0,3.0,4500.0,1.0,25.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,10.0,1.0,1024.0,1440.0,3200.0
+,,,,16685.0,80.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,69990.0,0.0,8.0,3.0,4400.0,1.0,66.0,8.0,128.0,6.0,90.0,3.0,2.0,50.0,13.0,1.0,256.0,1344.0,2772.0
+,,,,6999.0,66.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,71999.0,86.0,8.0,3.0,6000.0,1.0,65.0,12.0,256.0,6.0,165.0,3.0,1.0,50.0,12.0,0.0,0.0,1080.0,2448.0
+,,,,26999.0,84.0,8.0,3.0,4500.0,1.0,50.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,16499.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,17990.0,74.0,8.0,2.0,5000.0,0.0,0.0,6.0,128.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,0.0,720.0,1600.0
+,,,,8999.0,68.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,39900.0,63.0,6.0,2.0,1821.0,1.0,18.0,3.0,64.0,4.0,60.0,1.0,1.0,12.0,7.0,0.0,0.0,750.0,1334.0
+,,,,5999.0,60.0,4.0,1.0,4000.0,1.0,10.0,6.0,64.0,6.0,60.0,2.0,1.0,8.0,5.0,0.0,0.0,720.0,1560.0
+,,,,34999.0,76.0,8.0,0.0,5000.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,16990.0,77.0,8.0,2.0,6000.0,1.0,44.0,8.0,128.0,6.0,60.0,2.0,1.0,50.0,8.0,0.0,0.0,1080.0,2408.0
+,,,,22990.0,84.0,8.0,2.0,4800.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,19990.0,84.0,8.0,2.0,4500.0,1.0,44.0,8.0,256.0,6.0,90.0,3.0,1.0,64.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,10850.0,74.0,8.0,2.0,5000.0,1.0,18.0,6.0,64.0,6.0,90.0,2.0,1.0,50.0,8.0,1.0,256.0,720.0,1612.0
+,,,,13499.0,75.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,6699.0,61.0,8.0,1.0,5000.0,1.0,18.0,3.0,64.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,128.0,1612.0,720.0
+,,,,17999.0,80.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,0.0,1080.0,2412.0
+,,,,13990.0,69.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,2.0,1.0,50.0,5.0,0.0,0.0,1080.0,2408.0
+,,,,94990.0,0.0,8.0,3.0,4600.0,1.0,120.0,12.0,512.0,6.0,120.0,4.0,2.0,50.0,13.0,0.0,0.0,1344.0,2772.0
+,,,,8968.0,72.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,0.0,1080.0,2408.0
+,,,,7320.0,60.0,4.0,2.0,5000.0,0.0,0.0,2.0,64.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,720.0,1600.0
+,,,,8999.0,69.0,8.0,1.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,256.0,1600.0,720.0
+,,,,13999.0,75.0,8.0,2.0,5000.0,1.0,15.0,6.0,128.0,6.0,60.0,4.0,1.0,48.0,8.0,1.0,0.0,720.0,1560.0
+,,,,14746.0,79.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,60.0,3.0,1.0,64.0,16.0,1.0,512.0,1080.0,2460.0
+,,,,16999.0,83.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,25990.0,83.0,8.0,3.0,4520.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,16499.0,78.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,60.0,4.0,1.0,48.0,13.0,1.0,512.0,1080.0,2400.0
+,,,,19999.0,81.0,8.0,2.0,5020.0,1.0,33.0,6.0,64.0,6.0,120.0,4.0,1.0,108.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,23500.0,80.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,144.0,3.0,1.0,64.0,20.0,0.0,0.0,2400.0,1080.0
+,,,,54999.0,85.0,8.0,2.0,4300.0,1.0,25.0,6.0,128.0,6.0,60.0,3.0,1.0,48.0,16.0,1.0,0.0,1080.0,2460.0
+,,,,19499.0,80.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,60.0,4.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2340.0
+,,,,79990.0,0.0,8.0,2.0,5000.0,1.0,0.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,10.0,0.0,0.0,1080.0,2460.0
+,,,,39999.0,83.0,8.0,2.0,4500.0,1.0,25.0,6.0,128.0,6.0,60.0,3.0,1.0,12.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,92999.0,89.0,8.0,2.0,4300.0,1.0,0.0,12.0,256.0,6.0,60.0,4.0,1.0,12.0,10.0,1.0,512.0,1440.0,3040.0
+,,,,32990.0,84.0,8.0,3.0,5000.0,1.0,120.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,14499.0,72.0,8.0,2.0,5000.0,1.0,15.0,4.0,128.0,6.0,90.0,3.0,1.0,50.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,13999.0,70.0,8.0,2.0,5000.0,1.0,15.0,4.0,128.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,7999.0,0.0,8.0,0.0,5000.0,1.0,10.0,2.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,5785.0,0.0,8.0,1.0,5000.0,1.0,18.0,2.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,128.0,1612.0,720.0
+,,,,12990.0,73.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,2.0,1.0,13.0,5.0,1.0,512.0,1080.0,2400.0
+,,,,19990.0,84.0,8.0,2.0,5100.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,23990.0,79.0,8.0,2.0,5000.0,1.0,33.0,12.0,256.0,6.0,90.0,2.0,1.0,48.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,17999.0,77.0,8.0,1.0,4000.0,1.0,15.0,6.0,64.0,6.0,60.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,16999.0,80.0,8.0,2.0,5000.0,1.0,120.0,6.0,128.0,6.0,60.0,4.0,1.0,108.0,16.0,1.0,256.0,1080.0,2460.0
+,,,,9999.0,68.0,8.0,2.0,5000.0,0.0,0.0,4.0,128.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,0.0,720.0,1600.0
+,,,,8299.0,63.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,720.0,1600.0
+,,,,82199.0,89.0,8.0,3.0,5000.0,1.0,30.0,8.0,256.0,6.0,120.0,3.0,1.0,12.0,12.0,1.0,0.0,1080.0,2520.0
+,,,,49990.0,84.0,8.0,3.0,5000.0,1.0,80.0,8.0,128.0,6.0,144.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,11999.0,71.0,8.0,1.0,5050.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,512.0,720.0,1600.0
+,,,,29990.0,82.0,8.0,2.0,4300.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,108.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,92249.0,0.0,8.0,2.0,4500.0,1.0,33.0,8.0,256.0,7.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1792.0,1920.0
+,,,,139900.0,84.0,6.0,3.0,4352.0,1.0,0.0,6.0,256.0,6.0,120.0,3.0,1.0,12.0,12.0,0.0,0.0,1284.0,2778.0
+,,,,14990.0,74.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,15988.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,60.0,3.0,1.0,48.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,11725.0,76.0,8.0,2.0,6000.0,1.0,15.0,4.0,64.0,6.0,60.0,3.0,1.0,48.0,20.0,1.0,512.0,1080.0,2340.0
+,,,,17994.0,80.0,8.0,2.0,4310.0,1.0,30.0,8.0,128.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,134999.0,86.0,8.0,2.0,4000.0,1.0,45.0,8.0,256.0,7.0,60.0,3.0,1.0,64.0,16.0,0.0,0.0,1440.0,3200.0
+,,,,25595.0,81.0,8.0,2.0,4300.0,1.0,30.0,6.0,128.0,6.0,90.0,4.0,1.0,64.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,7499.0,67.0,8.0,1.0,4000.0,0.0,0.0,6.0,128.0,6.0,60.0,1.0,1.0,16.0,13.0,1.0,256.0,720.0,1520.0
+,,,,10890.0,74.0,8.0,2.0,5000.0,1.0,18.0,6.0,64.0,6.0,60.0,4.0,1.0,13.0,8.0,1.0,512.0,1080.0,2340.0
+,,,,18990.0,83.0,8.0,2.0,4015.0,1.0,30.0,8.0,128.0,6.0,60.0,4.0,2.0,48.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,19990.0,82.0,8.0,2.0,5000.0,1.0,20.0,6.0,128.0,6.0,60.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,15990.0,80.0,8.0,2.0,4000.0,1.0,15.0,4.0,128.0,6.0,60.0,3.0,1.0,48.0,32.0,1.0,512.0,1080.0,2340.0
+,,,,58999.0,89.0,8.0,2.0,4300.0,1.0,45.0,12.0,256.0,6.0,60.0,4.0,1.0,12.0,10.0,1.0,1024.0,1440.0,3040.0
+,,,,12500.0,71.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,16.0,1.0,256.0,720.0,1544.0
+,,,,29999.0,82.0,8.0,2.0,4500.0,1.0,18.0,8.0,128.0,6.0,60.0,4.0,1.0,48.0,32.0,1.0,256.0,1080.0,2340.0
+,,,,31990.0,86.0,8.0,2.0,4700.0,1.0,80.0,8.0,256.0,6.0,120.0,3.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2408.0
+,,,,29999.0,86.0,8.0,2.0,4000.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,44.0,1.0,0.0,1080.0,2400.0
+,,,,107990.0,0.0,8.0,3.0,6000.0,1.0,65.0,16.0,512.0,6.0,165.0,3.0,1.0,50.0,12.0,0.0,0.0,1080.0,2448.0
+,,,,31990.0,84.0,8.0,2.0,4020.0,1.0,68.0,8.0,128.0,6.0,120.0,2.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,48990.0,87.0,8.0,2.0,5000.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,20.0,0.0,0.0,1220.0,2712.0
+,,,,99990.0,85.0,8.0,3.0,4500.0,1.0,66.0,8.0,256.0,6.0,120.0,3.0,1.0,64.0,13.0,0.0,0.0,1440.0,3200.0
+,,,,9499.0,65.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,162990.0,89.0,8.0,2.0,4600.0,1.0,66.0,8.0,512.0,7.0,120.0,3.0,1.0,50.0,10.0,0.0,0.0,2200.0,2480.0
+,,,,24999.0,80.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,144.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,82990.0,72.0,0.0,0.0,3285.0,1.0,0.0,6.0,128.0,6.0,60.0,2.0,1.0,50.0,13.0,0.0,0.0,1170.0,2532.0
+,,,,15999.0,79.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,2048.0,1080.0,2460.0
+,,,,8999.0,64.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,16.0,8.0,1.0,256.0,720.0,1600.0
+,,,,17990.0,73.0,8.0,2.0,5000.0,0.0,0.0,6.0,128.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,0.0,720.0,1600.0
+,,,,82990.0,0.0,8.0,3.0,4500.0,1.0,120.0,12.0,256.0,6.0,120.0,4.0,1.0,50.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,12999.0,77.0,8.0,2.0,6000.0,1.0,18.0,6.0,128.0,6.0,90.0,4.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,29990.0,83.0,8.0,2.0,4300.0,1.0,66.0,8.0,128.0,6.0,120.0,4.0,1.0,50.0,32.0,0.0,0.0,1080.0,2340.0
+,,,,6999.0,0.0,4.0,1.0,4000.0,0.0,0.0,1.0,16.0,6.0,60.0,2.0,1.0,5.0,5.0,1.0,0.0,720.0,1520.0
+,,,,60999.0,0.0,8.0,2.0,4360.0,1.0,66.0,8.0,256.0,6.0,120.0,4.0,1.0,50.0,13.0,1.0,256.0,1288.0,2700.0
+,,,,27990.0,83.0,8.0,2.0,5500.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,20.0,0.0,0.0,1440.0,3200.0
+,,,,5249.0,0.0,8.0,1.0,3000.0,0.0,0.0,2.0,16.0,5.0,60.0,1.0,1.0,5.0,5.0,1.0,256.0,720.0,1440.0
+,,,,14999.0,80.0,8.0,2.0,5000.0,1.0,30.0,6.0,128.0,6.0,120.0,3.0,1.0,48.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,44990.0,87.0,8.0,3.0,4500.0,1.0,65.0,8.0,128.0,6.0,90.0,4.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,22490.0,87.0,8.0,3.0,5000.0,1.0,20.0,6.0,128.0,6.0,90.0,4.0,2.0,64.0,16.0,1.0,0.0,1080.0,2520.0
+,,,,50990.0,0.0,8.0,2.0,4500.0,1.0,65.0,12.0,256.0,6.0,120.0,4.0,1.0,50.0,32.0,0.0,0.0,1440.0,3216.0
+,,,,11499.0,75.0,8.0,2.0,6000.0,1.0,18.0,6.0,64.0,6.0,60.0,3.0,1.0,48.0,8.0,1.0,512.0,1080.0,2340.0
+,,,,5990.0,0.0,4.0,1.0,4000.0,0.0,0.0,1.0,16.0,6.0,60.0,3.0,1.0,8.0,8.0,1.0,32.0,1600.0,720.0
+,,,,27000.0,84.0,8.0,2.0,4000.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,2.0,64.0,44.0,0.0,0.0,1080.0,2400.0
+,,,,29999.0,86.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,144.0,3.0,1.0,108.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,27990.0,84.0,8.0,2.0,4500.0,1.0,33.0,8.0,256.0,6.0,60.0,4.0,2.0,48.0,32.0,1.0,512.0,1080.0,2400.0
+,,,,74999.0,89.0,8.0,2.0,4000.0,1.0,25.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,10.0,1.0,1024.0,1440.0,3200.0
+,,,,9990.0,72.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,16.0,16.0,1.0,256.0,1080.0,2340.0
+,,,,19990.0,82.0,8.0,2.0,4000.0,1.0,30.0,8.0,128.0,6.0,60.0,4.0,1.0,64.0,32.0,1.0,256.0,1080.0,2340.0
+,,,,13279.0,75.0,8.0,2.0,4000.0,1.0,20.0,4.0,64.0,6.0,60.0,4.0,1.0,64.0,16.0,1.0,256.0,1080.0,2340.0
+,,,,11000.0,68.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,256.0,720.0,1544.0
+,,,,12999.0,78.0,8.0,2.0,4000.0,1.0,0.0,6.0,128.0,6.0,60.0,2.0,1.0,12.0,20.0,1.0,256.0,1080.0,2246.0
+,,,,7299.0,61.0,4.0,2.0,5000.0,1.0,10.0,3.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,720.0,1600.0
+,,,,7999.0,61.0,4.0,1.0,5000.0,0.0,0.0,4.0,32.0,6.0,60.0,1.0,1.0,20.0,13.0,1.0,128.0,720.0,1600.0
+,,,,54990.0,86.0,8.0,3.0,5000.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,20.0,0.0,0.0,1440.0,3200.0
+,,,,49990.0,77.0,8.0,0.0,5000.0,1.0,120.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,54990.0,0.0,8.0,3.0,4500.0,1.0,100.0,12.0,256.0,6.0,120.0,3.0,1.0,200.0,50.0,0.0,0.0,1200.0,2652.0
+,,,,49990.0,60.0,6.0,3.0,0.0,0.0,0.0,4.0,64.0,6.0,60.0,1.0,1.0,12.0,10.0,0.0,0.0,750.0,1580.0
+,,,,15499.0,71.0,8.0,2.0,6000.0,1.0,18.0,4.0,128.0,6.0,120.0,2.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2400.0
+,,,,169900.0,78.0,6.0,0.0,4323.0,1.0,0.0,6.0,512.0,6.0,120.0,3.0,1.0,48.0,12.0,0.0,0.0,1290.0,2796.0
+,,,,53990.0,75.0,8.0,0.0,4830.0,1.0,67.0,8.0,128.0,6.0,120.0,2.0,1.0,50.0,10.0,0.0,0.0,1080.0,2400.0
+,,,,18990.0,80.0,8.0,3.0,6000.0,1.0,44.0,8.0,128.0,6.0,120.0,2.0,1.0,50.0,16.0,0.0,0.0,1080.0,2408.0
+,,,,16999.0,76.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,0.0,2460.0,1080.0
+,,,,34999.0,86.0,8.0,2.0,4200.0,1.0,67.0,8.0,128.0,6.0,144.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,82990.0,0.0,8.0,3.0,5000.0,1.0,80.0,12.0,512.0,7.0,120.0,4.0,1.0,50.0,16.0,0.0,0.0,1440.0,3080.0
+,,,,46999.0,89.0,8.0,3.0,5000.0,1.0,65.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3216.0
+,,,,8499.0,66.0,8.0,2.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,16999.0,76.0,8.0,2.0,4000.0,1.0,22.0,6.0,128.0,6.0,90.0,4.0,1.0,64.0,16.0,0.0,0.0,1080.0,2388.0
+,,,,11499.0,69.0,8.0,1.0,5000.0,1.0,15.0,4.0,64.0,6.0,60.0,2.0,1.0,48.0,5.0,1.0,1024.0,720.0,1560.0
+,,,,88999.0,88.0,8.0,3.0,4500.0,1.0,45.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,10.0,0.0,0.0,1080.0,2340.0
+,,,,15990.0,81.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,24990.0,83.0,8.0,2.0,5160.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,2400.0,1080.0
+,,,,79990.0,0.0,8.0,3.0,5000.0,1.0,80.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3216.0
+,,,,6249.0,61.0,8.0,2.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1600.0
+,,,,12499.0,69.0,8.0,2.0,5000.0,1.0,18.0,3.0,64.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,6499.0,61.0,8.0,2.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,179900.0,86.0,6.0,3.0,4352.0,1.0,0.0,6.0,1024.0,6.0,120.0,3.0,1.0,12.0,12.0,0.0,0.0,1284.0,2778.0
+,,,,11990.0,68.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,0.0,720.0,1600.0
+,,,,26990.0,82.0,8.0,2.0,4050.0,1.0,44.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,50.0,0.0,0.0,1080.0,2400.0
+,,,,13499.0,76.0,8.0,2.0,6000.0,0.0,0.0,6.0,128.0,6.0,90.0,4.0,1.0,48.0,13.0,1.0,1024.0,720.0,1600.0
+,,,,75999.0,0.0,8.0,3.0,4800.0,1.0,67.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,20.0,0.0,0.0,1440.0,3200.0
+,,,,5999.0,60.0,8.0,1.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,256.0,720.0,1600.0
+,,,,8499.0,67.0,8.0,2.0,5000.0,1.0,15.0,3.0,32.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,11990.0,71.0,8.0,2.0,5000.0,1.0,0.0,4.0,128.0,6.0,60.0,3.0,1.0,13.0,16.0,1.0,256.0,1600.0,720.0
+,,,,10990.0,77.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,4.0,1.0,48.0,13.0,1.0,0.0,1080.0,2340.0
+,,,,109990.0,0.0,8.0,2.0,5020.0,1.0,67.0,12.0,256.0,8.0,90.0,3.0,1.0,108.0,20.0,0.0,0.0,1860.0,2480.0
+,,,,16999.0,80.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,12199.0,70.0,8.0,2.0,5000.0,1.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,16.0,1.0,256.0,1600.0,720.0
+,,,,11490.0,72.0,8.0,2.0,4230.0,0.0,0.0,4.0,128.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,256.0,720.0,1600.0
+,,,,5490.0,0.0,4.0,1.0,4000.0,0.0,0.0,1.0,16.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,32.0,720.0,1600.0
+,,,,11499.0,74.0,8.0,2.0,6000.0,1.0,18.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,8.0,1.0,512.0,1080.0,2340.0
+,,,,59450.0,88.0,8.0,2.0,4800.0,1.0,25.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,10.0,0.0,0.0,1080.0,2400.0
+,,,,12799.0,76.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,83000.0,88.0,8.0,2.0,4500.0,1.0,25.0,8.0,128.0,6.0,120.0,4.0,1.0,64.0,10.0,1.0,1024.0,1440.0,3200.0
+,,,,14490.0,80.0,8.0,2.0,4300.0,1.0,30.0,6.0,64.0,6.0,90.0,4.0,2.0,64.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,82990.0,0.0,8.0,2.0,4200.0,1.0,40.0,8.0,256.0,6.0,90.0,4.0,2.0,50.0,32.0,1.0,256.0,1200.0,2640.0
+,,,,9490.0,64.0,8.0,2.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1544.0
+,,,,25000.0,78.0,8.0,2.0,3700.0,1.0,0.0,8.0,128.0,6.0,60.0,3.0,1.0,48.0,32.0,1.0,256.0,1080.0,2316.0
+,,,,15000.0,65.0,8.0,1.0,4030.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,20.0,1.0,256.0,1520.0,720.0
+,,,,20990.0,70.0,8.0,2.0,3315.0,0.0,0.0,4.0,128.0,6.0,60.0,2.0,1.0,16.0,25.0,1.0,256.0,1080.0,2280.0
+,,,,34999.0,78.0,8.0,2.0,3500.0,1.0,0.0,6.0,128.0,6.0,60.0,2.0,1.0,12.0,8.0,1.0,512.0,1440.0,2960.0
+,,,,29999.0,80.0,8.0,3.0,5000.0,1.0,120.0,8.0,128.0,6.0,144.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,11999.0,67.0,8.0,2.0,6000.0,1.0,15.0,4.0,128.0,6.0,60.0,2.0,1.0,13.0,5.0,0.0,0.0,720.0,1600.0
+,,,,12999.0,72.0,8.0,2.0,5000.0,1.0,0.0,4.0,128.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,124990.0,89.0,8.0,3.0,5000.0,1.0,0.0,12.0,256.0,6.0,240.0,2.0,1.0,47.0,12.0,1.0,1024.0,1260.0,2730.0
+,,,,28999.0,85.0,8.0,3.0,5080.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2460.0
+,,,,12999.0,77.0,8.0,2.0,5000.0,1.0,18.0,8.0,128.0,6.0,60.0,2.0,1.0,50.0,8.0,1.0,0.0,1080.0,2460.0
+,,,,28499.0,82.0,8.0,3.0,5000.0,1.0,80.0,8.0,256.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,104999.0,83.0,6.0,3.0,4325.0,1.0,0.0,6.0,512.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1284.0,2778.0
+,,,,172999.0,77.0,6.0,0.0,3200.0,1.0,0.0,6.0,1024.0,6.0,120.0,3.0,1.0,48.0,12.0,0.0,0.0,1179.0,2556.0
+,,,,17990.0,79.0,8.0,2.0,5100.0,1.0,18.0,6.0,128.0,6.0,120.0,2.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,13774.0,76.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,8999.0,64.0,8.0,1.0,5050.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,0.0,720.0,1600.0
+,,,,18990.0,75.0,8.0,2.0,5000.0,1.0,33.0,4.0,64.0,6.0,90.0,2.0,1.0,48.0,16.0,1.0,0.0,720.0,1612.0
+,,,,14999.0,77.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,48.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,7999.0,61.0,8.0,1.0,5000.0,1.0,10.0,3.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,39999.0,85.0,8.0,3.0,5000.0,1.0,120.0,8.0,128.0,6.0,144.0,3.0,1.0,108.0,20.0,0.0,0.0,1220.0,2712.0
+,,,,11990.0,67.0,8.0,2.0,5000.0,1.0,33.0,3.0,64.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,0.0,720.0,1612.0
+,,,,12999.0,77.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,512.0,2400.0,1080.0
+,,,,54999.0,77.0,8.0,0.0,4500.0,1.0,0.0,8.0,128.0,6.0,60.0,4.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,24990.0,72.0,8.0,0.0,6000.0,1.0,0.0,6.0,128.0,6.0,60.0,3.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,59999.0,88.0,8.0,3.0,4500.0,1.0,80.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,19999.0,72.0,8.0,0.0,5000.0,1.0,0.0,6.0,128.0,6.0,120.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,16999.0,79.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,14999.0,60.0,8.0,0.0,6000.0,0.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,48.0,8.0,1.0,512.0,720.0,1600.0
+,,,,29990.0,76.0,8.0,0.0,4500.0,1.0,67.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2408.0
+,,,,13990.0,69.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,2.0,1.0,50.0,5.0,0.0,0.0,1080.0,2408.0
+,,,,17999.0,81.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,4.0,1.0,108.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,11399.0,73.0,8.0,1.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,19990.0,79.0,8.0,2.0,6000.0,1.0,18.0,8.0,128.0,6.0,60.0,2.0,1.0,50.0,8.0,0.0,0.0,1080.0,2408.0
+,,,,15499.0,74.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,1024.0,1600.0,720.0
+,,,,6999.0,0.0,4.0,2.0,4800.0,0.0,0.0,3.0,32.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,0.0,720.0,1600.0
+,,,,12499.0,77.0,8.0,2.0,5020.0,1.0,18.0,4.0,128.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,91999.0,80.0,6.0,3.0,3240.0,1.0,0.0,4.0,512.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,9690.0,71.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,256.0,1080.0,2480.0
+,,,,32990.0,85.0,8.0,3.0,4500.0,1.0,65.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,42990.0,87.0,8.0,3.0,4500.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,14999.0,0.0,4.0,1.0,2000.0,0.0,0.0,2.0,16.0,4.0,60.0,1.0,1.0,5.0,2.0,0.0,0.0,480.0,640.0
+,,,,18699.0,82.0,8.0,2.0,4250.0,1.0,33.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,10990.0,76.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,60.0,3.0,1.0,48.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,30990.0,85.0,8.0,2.0,4520.0,1.0,33.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,59999.0,89.0,8.0,2.0,5000.0,1.0,120.0,16.0,512.0,6.0,144.0,2.0,1.0,64.0,20.0,0.0,0.0,1080.0,2400.0
+,,,,23999.0,83.0,8.0,2.0,7000.0,1.0,0.0,6.0,128.0,6.0,60.0,4.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,9999.0,69.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,60.0,3.0,1.0,13.0,8.0,0.0,0.0,720.0,1600.0
+,,,,119900.0,80.0,6.0,3.0,0.0,0.0,0.0,6.0,256.0,6.0,60.0,3.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,9299.0,67.0,8.0,2.0,5000.0,1.0,10.0,4.0,128.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,12989.0,77.0,8.0,2.0,4300.0,1.0,30.0,6.0,64.0,6.0,90.0,4.0,1.0,64.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,4999.0,0.0,4.0,1.0,3000.0,0.0,0.0,1.0,16.0,5.0,60.0,1.0,1.0,8.0,5.0,1.0,0.0,720.0,1480.0
+,,,,29990.0,83.0,8.0,2.0,4300.0,1.0,65.0,8.0,128.0,6.0,60.0,4.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,12490.0,72.0,8.0,2.0,4230.0,0.0,0.0,6.0,128.0,6.0,60.0,3.0,1.0,12.0,8.0,1.0,256.0,720.0,1600.0
+,,,,27999.0,75.0,8.0,2.0,3600.0,1.0,18.0,4.0,128.0,6.0,90.0,3.0,1.0,12.0,8.0,1.0,0.0,1080.0,2520.0
+,,,,8199.0,0.0,8.0,2.0,4030.0,0.0,0.0,2.0,32.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,256.0,720.0,1520.0
+,,,,21990.0,81.0,8.0,2.0,4200.0,1.0,40.0,8.0,128.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,256.0,1080.0,2340.0
+,,,,20000.0,73.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,60.0,3.0,1.0,16.0,16.0,1.0,256.0,1080.0,2340.0
+,,,,11990.0,74.0,8.0,2.0,5000.0,1.0,18.0,6.0,64.0,6.0,60.0,3.0,1.0,16.0,16.0,1.0,256.0,1080.0,2340.0
+,,,,11989.0,75.0,8.0,2.0,5020.0,1.0,22.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,13.0,1.0,512.0,1080.0,2340.0
+,,,,11490.0,66.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,2.0,1.0,12.0,8.0,1.0,512.0,720.0,1520.0
+,,,,11490.0,68.0,8.0,2.0,4000.0,1.0,10.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,512.0,720.0,1520.0
+,,,,15999.0,67.0,8.0,2.0,3700.0,1.0,18.0,4.0,64.0,6.0,60.0,1.0,1.0,12.0,8.0,0.0,0.0,1080.0,2160.0
+,,,,17990.0,69.0,8.0,2.0,3100.0,1.0,15.0,4.0,64.0,5.0,60.0,2.0,1.0,16.0,25.0,1.0,512.0,1080.0,2340.0
+,,,,78990.0,86.0,8.0,2.0,4500.0,1.0,25.0,8.0,256.0,6.0,60.0,3.0,1.0,16.0,10.0,1.0,512.0,1440.0,3040.0
+,,,,10949.0,66.0,8.0,2.0,3000.0,0.0,0.0,4.0,64.0,5.0,60.0,2.0,1.0,13.0,16.0,1.0,256.0,1080.0,2280.0
+,,,,10300.0,65.0,8.0,2.0,4100.0,0.0,0.0,4.0,64.0,5.0,60.0,1.0,1.0,13.0,5.0,1.0,128.0,1080.0,1920.0
+,,,,45999.0,88.0,8.0,2.0,22000.0,1.0,33.0,12.0,256.0,6.0,120.0,3.0,1.0,108.0,32.0,1.0,2048.0,1080.0,2408.0
+,,,,21990.0,63.0,8.0,0.0,5000.0,1.0,22.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,5.0,1.0,0.0,720.0,1600.0
+,,,,19990.0,76.0,8.0,0.0,5000.0,1.0,45.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,32990.0,84.0,8.0,2.0,5000.0,1.0,80.0,8.0,256.0,6.0,120.0,3.0,1.0,64.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,14499.0,77.0,8.0,2.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,50.0,8.0,1.0,512.0,1080.0,2400.0
+,,,,41990.0,85.0,8.0,2.0,4200.0,1.0,33.0,6.0,128.0,6.0,90.0,2.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,13990.0,67.0,8.0,2.0,7000.0,0.0,0.0,6.0,128.0,6.0,90.0,2.0,1.0,16.0,8.0,1.0,512.0,720.0,1600.0
+,,,,10490.0,67.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,29990.0,82.0,8.0,2.0,4000.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,60.0,0.0,0.0,1080.0,2400.0
+,,,,22990.0,82.0,8.0,2.0,5000.0,1.0,40.0,8.0,128.0,6.0,90.0,4.0,1.0,50.0,8.0,1.0,0.0,1080.0,2388.0
+,,,,47990.0,80.0,8.0,3.0,5000.0,1.0,0.0,8.0,128.0,6.0,60.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,19999.0,84.0,8.0,2.0,4500.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,29999.0,83.0,8.0,2.0,4500.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2412.0
+,,,,11879.0,74.0,8.0,1.0,5000.0,1.0,18.0,4.0,128.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,28990.0,84.0,8.0,2.0,4500.0,1.0,150.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,39990.0,85.0,8.0,2.0,4350.0,1.0,120.0,12.0,256.0,6.0,120.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2376.0
+,,,,15999.0,78.0,8.0,2.0,5000.0,1.0,33.0,6.0,64.0,6.0,90.0,3.0,1.0,64.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,22990.0,82.0,8.0,2.0,4500.0,1.0,33.0,8.0,256.0,6.0,60.0,2.0,1.0,48.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,149999.0,87.0,8.0,2.0,3360.0,0.0,0.0,8.0,128.0,7.0,60.0,3.0,1.0,64.0,32.0,0.0,0.0,1440.0,1920.0
+,,,,11499.0,75.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,90.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,22999.0,84.0,8.0,2.0,5000.0,1.0,44.0,8.0,256.0,6.0,120.0,4.0,2.0,50.0,48.0,0.0,0.0,1080.0,2400.0
+,,,,7999.0,70.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,8.0,1.0,0.0,720.0,1600.0
+,,,,31999.0,82.0,8.0,3.0,5000.0,1.0,65.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,2400.0,1080.0
+,,,,30990.0,78.0,8.0,2.0,4500.0,1.0,30.0,6.0,64.0,6.0,60.0,3.0,1.0,12.0,8.0,1.0,0.0,1080.0,2520.0
+,,,,7999.0,64.0,8.0,2.0,6000.0,0.0,0.0,3.0,32.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,10999.0,74.0,8.0,2.0,7000.0,1.0,18.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,8.0,1.0,256.0,1080.0,2460.0
+,,,,14990.0,79.0,8.0,2.0,5000.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,14499.0,77.0,8.0,2.0,6000.0,1.0,20.0,4.0,64.0,6.0,120.0,3.0,1.0,64.0,16.0,1.0,256.0,1080.0,2460.0
+,,,,44999.0,86.0,8.0,2.0,4500.0,1.0,65.0,8.0,128.0,6.0,120.0,4.0,1.0,108.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,17999.0,83.0,8.0,2.0,5000.0,1.0,30.0,8.0,128.0,6.0,60.0,4.0,1.0,64.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,19999.0,83.0,8.0,2.0,5000.0,1.0,30.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,16.0,1.0,256.0,1080.0,2400.0
+,,,,3999.0,0.0,4.0,1.0,2400.0,0.0,0.0,1.0,8.0,5.0,60.0,1.0,1.0,5.0,2.0,0.0,0.0,854.0,480.0
+,,,,101999.0,0.0,8.0,2.0,5000.0,1.0,25.0,12.0,128.0,6.0,120.0,4.0,1.0,108.0,40.0,0.0,0.0,1440.0,3200.0
+,,,,38700.0,84.0,8.0,2.0,4350.0,1.0,65.0,8.0,128.0,6.0,90.0,4.0,1.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,19999.0,73.0,8.0,2.0,4500.0,1.0,65.0,4.0,64.0,6.0,60.0,4.0,1.0,48.0,13.0,1.0,256.0,1080.0,2400.0
+,,,,10999.0,72.0,8.0,2.0,6000.0,1.0,15.0,4.0,64.0,6.0,90.0,4.0,1.0,48.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,16990.0,68.0,8.0,1.0,5000.0,1.0,18.0,4.0,64.0,6.0,90.0,3.0,1.0,13.0,8.0,1.0,256.0,720.0,1600.0
+,,,,55999.0,75.0,6.0,3.0,0.0,0.0,0.0,4.0,256.0,5.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1080.0,2340.0
+,,,,67999.0,76.0,6.0,3.0,0.0,0.0,0.0,4.0,256.0,6.0,60.0,2.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,9999.0,66.0,8.0,2.0,4230.0,0.0,0.0,3.0,32.0,6.0,60.0,3.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,14439.0,77.0,8.0,2.0,5020.0,1.0,18.0,4.0,128.0,6.0,60.0,4.0,1.0,48.0,16.0,1.0,512.0,1080.0,2400.0
+,,,,9990.0,64.0,8.0,1.0,4230.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,256.0,1520.0,720.0
+,,,,24999.0,85.0,8.0,2.0,4200.0,1.0,65.0,8.0,128.0,6.0,90.0,4.0,2.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,85990.0,0.0,8.0,2.0,4500.0,1.0,25.0,8.0,128.0,6.0,60.0,4.0,1.0,64.0,10.0,1.0,1024.0,1440.0,3200.0
+,,,,480000.0,88.0,8.0,2.0,4000.0,1.0,27.0,8.0,256.0,6.0,60.0,3.0,1.0,48.0,20.0,0.0,0.0,1080.0,2340.0
+,,,,16999.0,78.0,8.0,2.0,4500.0,1.0,18.0,6.0,64.0,6.0,60.0,4.0,1.0,64.0,20.0,1.0,512.0,1080.0,2340.0
+,,,,8999.0,0.0,8.0,2.0,4000.0,0.0,0.0,2.0,16.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1520.0
+,,,,15990.0,62.0,8.0,2.0,3200.0,0.0,0.0,3.0,32.0,6.0,60.0,1.0,1.0,13.0,16.0,1.0,0.0,1080.0,2160.0
+,,,,3890.0,0.0,8.0,1.0,2500.0,0.0,0.0,3.0,32.0,5.0,60.0,1.0,1.0,13.0,13.0,1.0,64.0,1080.0,1920.0
+,,,,84990.0,75.0,6.0,0.0,4532.0,1.0,0.0,8.0,128.0,6.0,120.0,2.0,1.0,12.0,12.0,0.0,0.0,1284.0,2778.0
+,,,,21999.0,78.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,60.0,3.0,1.0,50.0,8.0,1.0,0.0,1080.0,2408.0
+,,,,8999.0,66.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,256.0,720.0,1600.0
+,,,,20999.0,79.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,32990.0,84.0,8.0,3.0,4500.0,1.0,80.0,8.0,128.0,6.0,90.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,9022.0,70.0,8.0,2.0,5000.0,1.0,10.0,4.0,64.0,6.0,90.0,2.0,1.0,16.0,8.0,1.0,0.0,720.0,1600.0
+,,,,8399.0,61.0,4.0,2.0,5000.0,1.0,10.0,3.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,720.0,1600.0
+,,,,9999.0,64.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,0.0,720.0,1612.0
+,,,,8390.0,63.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1600.0
+,,,,19999.0,82.0,8.0,3.0,4200.0,1.0,55.0,6.0,128.0,6.0,120.0,4.0,1.0,50.0,16.0,1.0,0.0,1080.0,2460.0
+,,,,13999.0,71.0,8.0,2.0,5000.0,1.0,10.0,4.0,64.0,6.0,60.0,3.0,1.0,50.0,5.0,1.0,0.0,720.0,1600.0
+,,,,29999.0,85.0,8.0,2.0,4500.0,1.0,67.0,8.0,128.0,6.0,120.0,3.0,2.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,8990.0,60.0,8.0,2.0,3000.0,1.0,10.0,3.0,32.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,0.0,720.0,1440.0
+,,,,163980.0,0.0,8.0,3.0,4400.0,1.0,25.0,12.0,1024.0,7.0,120.0,3.0,2.0,50.0,10.0,0.0,0.0,1812.0,2176.0
+,,,,24990.0,80.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,120.0,2.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,59990.0,0.0,8.0,3.0,4450.0,1.0,125.0,8.0,128.0,6.0,144.0,3.0,1.0,200.0,60.0,0.0,0.0,1080.0,2340.0
+,,,,47990.0,86.0,8.0,3.0,4800.0,1.0,150.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,40990.0,86.0,8.0,3.0,5000.0,1.0,100.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2412.0
+,,,,22999.0,74.0,8.0,0.0,6000.0,1.0,0.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,12990.0,63.0,8.0,0.0,5000.0,1.0,18.0,4.0,64.0,6.0,60.0,2.0,1.0,48.0,5.0,1.0,1024.0,720.0,1560.0
+,,,,14999.0,79.0,8.0,2.0,5000.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,512.0,2400.0,1080.0
+,,,,42999.0,86.0,8.0,3.0,4500.0,1.0,150.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,20.0,0.0,0.0,1080.0,2412.0
+,,,,14999.0,78.0,8.0,2.0,5000.0,1.0,18.0,4.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2412.0
+,,,,22990.0,83.0,8.0,2.0,5000.0,1.0,44.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,118990.0,0.0,8.0,3.0,4600.0,1.0,66.0,12.0,512.0,8.0,120.0,4.0,1.0,50.0,16.0,0.0,0.0,1916.0,2160.0
+,,,,29990.0,81.0,8.0,2.0,5000.0,1.0,80.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,7399.0,62.0,8.0,2.0,5000.0,0.0,0.0,3.0,64.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,256.0,720.0,1612.0
+,,,,17999.0,80.0,8.0,2.0,4200.0,1.0,55.0,8.0,128.0,6.0,120.0,3.0,1.0,50.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,12799.0,77.0,8.0,2.0,5000.0,1.0,33.0,6.0,128.0,6.0,60.0,3.0,1.0,50.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,26999.0,86.0,8.0,2.0,4500.0,1.0,120.0,8.0,128.0,6.0,120.0,3.0,1.0,108.0,16.0,1.0,1024.0,2400.0,1080.0
+,,,,22999.0,82.0,8.0,2.0,5000.0,1.0,15.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,8.0,1.0,1024.0,1080.0,2408.0
+,,,,147900.0,84.0,6.0,3.0,3095.0,1.0,0.0,6.0,1024.0,6.0,120.0,3.0,1.0,12.0,12.0,0.0,0.0,1170.0,2532.0
+,,,,44999.0,84.0,8.0,2.0,5050.0,1.0,30.0,8.0,128.0,6.0,165.0,3.0,1.0,64.0,8.0,0.0,0.0,1080.0,2400.0
+,,,,7790.0,68.0,8.0,1.0,5000.0,0.0,0.0,6.0,64.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,39990.0,87.0,8.0,3.0,6000.0,1.0,33.0,6.0,128.0,6.0,144.0,4.0,1.0,200.0,16.0,1.0,0.0,1080.0,2400.0
+,,,,9999.0,65.0,8.0,2.0,5000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,0.0,720.0,1600.0
+,,,,22990.0,80.0,8.0,2.0,4000.0,1.0,18.0,6.0,128.0,6.0,90.0,4.0,1.0,64.0,16.0,1.0,1024.0,1080.0,2400.0
+,,,,32999.0,79.0,8.0,3.0,5065.0,1.0,67.0,6.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,32990.0,85.0,8.0,2.0,4300.0,1.0,66.0,6.0,128.0,6.0,120.0,4.0,1.0,108.0,32.0,0.0,0.0,1080.0,2340.0
+,,,,14999.0,74.0,8.0,2.0,5000.0,1.0,0.0,6.0,128.0,6.0,60.0,3.0,1.0,13.0,16.0,1.0,256.0,1600.0,720.0
+,,,,12499.0,74.0,8.0,2.0,5000.0,1.0,18.0,4.0,64.0,6.0,120.0,3.0,1.0,50.0,16.0,1.0,256.0,1080.0,2412.0
+,,,,39990.0,84.0,8.0,2.0,4000.0,1.0,66.0,8.0,128.0,6.0,120.0,3.0,1.0,48.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,6499.0,61.0,8.0,1.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,0.0,720.0,1600.0
+,,,,18499.0,76.0,8.0,2.0,5000.0,1.0,15.0,6.0,128.0,6.0,60.0,4.0,1.0,48.0,13.0,1.0,1024.0,720.0,1600.0
+,,,,30994.0,85.0,8.0,2.0,4500.0,1.0,65.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,32999.0,78.0,8.0,2.0,4620.0,1.0,18.0,6.0,128.0,6.0,60.0,2.0,1.0,16.0,8.0,0.0,0.0,1080.0,2400.0
+,,,,10499.0,73.0,8.0,2.0,6000.0,1.0,15.0,4.0,64.0,6.0,90.0,4.0,1.0,48.0,8.0,1.0,512.0,720.0,1600.0
+,,,,19999.0,82.0,8.0,2.0,6000.0,1.0,15.0,6.0,128.0,6.0,60.0,3.0,1.0,64.0,32.0,1.0,512.0,1080.0,2340.0
+,,,,17499.0,75.0,8.0,2.0,5000.0,0.0,0.0,6.0,128.0,6.0,60.0,4.0,1.0,48.0,13.0,1.0,512.0,720.0,1600.0
+,,,,10990.0,69.0,8.0,2.0,5000.0,0.0,0.0,6.0,128.0,6.0,60.0,1.0,1.0,13.0,5.0,1.0,512.0,720.0,1600.0
+,,,,19000.0,82.0,8.0,2.0,4100.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,48.0,32.0,1.0,0.0,1080.0,2400.0
+,,,,13990.0,70.0,8.0,1.0,5000.0,1.0,18.0,6.0,128.0,6.0,90.0,3.0,1.0,13.0,16.0,1.0,256.0,1600.0,720.0
+,,,,10499.0,72.0,8.0,2.0,6000.0,1.0,18.0,4.0,64.0,6.0,60.0,3.0,1.0,48.0,8.0,1.0,256.0,720.0,1600.0
+,,,,5890.0,0.0,8.0,1.0,4000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,128.0,1520.0,720.0
+,,,,6490.0,61.0,8.0,2.0,5000.0,0.0,0.0,2.0,32.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,256.0,720.0,1600.0
+,,,,54999.0,88.0,8.0,2.0,4780.0,1.0,30.0,8.0,256.0,6.0,90.0,4.0,1.0,108.0,20.0,0.0,0.0,1080.0,2340.0
+,,,,9990.0,65.0,8.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,13.0,1.0,256.0,720.0,1544.0
+,,,,24999.0,79.0,8.0,2.0,4300.0,1.0,30.0,8.0,128.0,6.0,90.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2400.0
+,,,,59990.0,88.0,8.0,2.0,3730.0,1.0,0.0,12.0,256.0,6.0,60.0,3.0,1.0,48.0,16.0,1.0,1024.0,1440.0,3168.0
+,,,,214990.0,0.0,8.0,2.0,4500.0,1.0,0.0,12.0,512.0,6.0,60.0,4.0,2.0,40.0,32.0,1.0,256.0,1176.0,2400.0
+,,,,9990.0,63.0,8.0,1.0,4000.0,1.0,15.0,2.0,32.0,6.0,60.0,3.0,1.0,13.0,8.0,1.0,512.0,720.0,1560.0
+,,,,6999.0,0.0,8.0,2.0,4000.0,0.0,0.0,2.0,16.0,6.0,60.0,2.0,1.0,13.0,5.0,1.0,256.0,1560.0,720.0
+,,,,169000.0,0.0,8.0,2.0,4500.0,1.0,55.0,8.0,512.0,8.0,60.0,4.0,0.0,48.0,0.0,0.0,0.0,2200.0,2480.0
+,,,,39990.0,78.0,8.0,2.0,3400.0,1.0,0.0,6.0,128.0,6.0,60.0,3.0,1.0,24.0,24.0,1.0,512.0,1080.0,2340.0
+,,,,21490.0,70.0,8.0,2.0,3300.0,0.0,0.0,4.0,64.0,6.0,60.0,3.0,1.0,24.0,24.0,1.0,512.0,2220.0,1080.0
+,,,,13490.0,0.0,4.0,1.0,2730.0,0.0,0.0,3.0,16.0,5.0,60.0,1.0,1.0,13.0,5.0,1.0,0.0,720.0,1280.0
+,,,,7999.0,70.0,8.0,2.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,2.0,1.0,50.0,5.0,1.0,512.0,720.0,1650.0
+,,,,8990.0,67.0,8.0,2.0,5180.0,1.0,10.0,4.0,64.0,6.0,60.0,2.0,1.0,13.0,8.0,1.0,0.0,720.0,1560.0
+,,,,13999.0,75.0,8.0,2.0,5000.0,1.0,22.0,6.0,128.0,6.0,90.0,4.0,1.0,50.0,8.0,1.0,0.0,720.0,1600.0
+,,,,13990.0,72.0,8.0,2.0,5000.0,1.0,10.0,6.0,128.0,6.0,90.0,2.0,1.0,13.0,8.0,1.0,1024.0,720.0,1612.0
+,,,,14999.0,84.0,8.0,2.0,6000.0,1.0,33.0,8.0,128.0,6.0,60.0,3.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2340.0
+,,,,6999.0,0.0,4.0,2.0,4000.0,0.0,0.0,3.0,32.0,6.0,60.0,2.0,1.0,8.0,5.0,1.0,512.0,1600.0,720.0
+,,,,42990.0,87.0,8.0,3.0,4500.0,1.0,68.0,8.0,128.0,6.0,144.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,6799.0,61.0,4.0,1.0,5000.0,0.0,0.0,4.0,64.0,6.0,60.0,1.0,1.0,20.0,13.0,1.0,64.0,720.0,1560.0
+,,,,25899.0,72.0,8.0,2.0,8000.0,0.0,0.0,6.0,128.0,5.0,60.0,3.0,1.0,16.0,8.0,1.0,0.0,720.0,1520.0
+,,,,54999.0,89.0,8.0,3.0,5000.0,1.0,67.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1440.0,3200.0
+,,,,49990.0,89.0,8.0,3.0,5000.0,1.0,68.0,8.0,128.0,6.0,144.0,3.0,2.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,32990.0,86.0,8.0,3.0,5000.0,1.0,80.0,8.0,256.0,6.0,120.0,3.0,2.0,64.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,8720.0,64.0,8.0,1.0,5000.0,1.0,10.0,4.0,64.0,6.0,60.0,1.0,1.0,8.0,5.0,1.0,1024.0,720.0,1600.0
+,,,,69990.0,89.0,8.0,3.0,4700.0,1.0,120.0,8.0,256.0,6.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1080.0,2400.0
+,,,,4787.0,0.0,4.0,1.0,3020.0,0.0,0.0,2.0,32.0,5.0,60.0,1.0,0.0,2.0,0.0,0.0,0.0,854.0,480.0
+,,,,70990.0,80.0,8.0,0.0,5000.0,1.0,67.0,12.0,256.0,6.0,120.0,3.0,1.0,50.0,12.0,0.0,0.0,1440.0,3120.0
+,,,,119990.0,0.0,8.0,3.0,4800.0,1.0,66.0,12.0,256.0,8.0,120.0,3.0,1.0,50.0,32.0,0.0,0.0,1916.0,2160.0
+,,,,34990.0,83.0,8.0,3.0,5000.0,1.0,68.0,8.0,128.0,6.0,120.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,14990.0,75.0,8.0,2.0,5000.0,1.0,22.0,6.0,128.0,6.0,60.0,3.0,1.0,48.0,8.0,1.0,1024.0,720.0,1600.0
+,,,,28990.0,85.0,8.0,2.0,5080.0,1.0,67.0,8.0,256.0,6.0,144.0,3.0,1.0,64.0,16.0,0.0,0.0,1080.0,2460.0
+,,,,19990.0,80.0,8.0,2.0,5000.0,1.0,0.0,6.0,128.0,6.0,60.0,3.0,1.0,108.0,32.0,1.0,1024.0,1080.0,2400.0
+,,,,24990.0,74.0,8.0,0.0,5000.0,1.0,0.0,8.0,128.0,6.0,60.0,3.0,1.0,64.0,32.0,1.0,1024.0,1080.0,2400.0
