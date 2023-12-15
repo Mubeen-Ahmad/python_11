@@ -455,5 +455,5 @@
      <details>
      <summary> <h4>Basic</h4></summary>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/b1.ipynb">Short Introduction</a><br>
-
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/b2.ipynb">Connect python with database Xampp</a><br>
 </details>
