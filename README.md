@@ -458,4 +458,5 @@
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/b2.ipynb">Connect python with database Xampp</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/dbs_db_tables.ipynb">Databases Vs Database Vs Table and create database table insert value</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Database_Keys.ipynb">Databases Keys Short Introduction</a><br>
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Cardinality of Relationships.ipynb">Cardinality of Relationships Short Introduction</a><br>
 </details>
