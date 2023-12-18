@@ -462,6 +462,6 @@
       </details>
       <details>
      <summary> <h4>Commands</h4></summary>
-     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Sql_DDL.ipynb">DDL Commands Part1</a><br>
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Sql_DDL.ipynb">DDL Commands and Constrains</a><br>
      </details>
 </details>
