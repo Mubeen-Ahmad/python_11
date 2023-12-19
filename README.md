@@ -466,5 +466,6 @@
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL constrain keyword.ipynb">DDL Commands , Constrains keyword , Relation Ship and Referential Actions</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL Alter Command.ipynb">DDL ALTER Commands</a><br> 
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML.ipynb">DML Commands Insert,Update,Delete</a><br>   
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML select.ipynb">DML Commands Select, and Load csv_data python to sql</a><br>   
      </details>
 </details>
