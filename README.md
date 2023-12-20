@@ -470,6 +470,6 @@
      </details>
       <details>
           <summary> <h4>Operators And Bulit-In Functions</h4></summary>
-      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/08 Arithmetic and Bitwise Operations.ipynb">Arithmetic and Bitwise Operations</a><br>
+      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/08 Arithmetic and Bitwise Operations.ipynb">Arithmetic and Bitwise Operators</a><br>
      </details>
 </details>
