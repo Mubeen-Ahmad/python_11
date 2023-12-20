@@ -461,11 +461,16 @@
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Cardinality of Relationships.ipynb">Cardinality of Relationships Short Introduction</a>
       </details>
       <details>
-     <summary> <h4>Commands</h4></summary>
+     <summary> <h4>DDL Commands</h4></summary>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Sql_DDL.ipynb">DDL Commands and Constrains</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL constrain keyword.ipynb">DDL Commands , Constrains keyword , Relation Ship and Referential Actions</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL Alter Command.ipynb">DDL ALTER Commands</a><br> 
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML.ipynb">DML Commands Insert,Update,Delete</a><br>   
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML select.ipynb">DML Commands Select, and Load csv_data python to sql</a><br>   
+     </details>
+      <details>
+          <summary> <h4>Operators And Bulit-In Functions</h4></summary>
+      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/08 Arithmetic and Bitwise Operations.ipynb">Arithmetic and Bitwise Operations</a><br>
+      
      </details>
 </details>
