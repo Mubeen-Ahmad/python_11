@@ -478,5 +478,7 @@
           <summary> <h4>Grouping and Joining</h4></summary>
       • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/11 limit_sorting_Grouping_Having.ipynb">Limit, Sorting, Grouping and Having</a><br>
       • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/12 Group By and Sorting Pratice.ipynb">Group By and Sorting Questions</a><br>
+      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/13 Join and Sets.ipynb">Join and Sets</a><br>
+      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/14 Self_and_Cross_Join_and_join_on_multiple_column_and_filters.ipynb">Self_and_Cross_Join_and_Join on Multiplle Columns</a><br>
      </details>
 </details>
