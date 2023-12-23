@@ -472,7 +472,8 @@
           <summary> <h4>Operators And Bulit-In Functions</h4></summary>
       • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/08 Arithmetic and Bitwise Operators.ipynb">Arithmetic and Bitwise Operators</a><br>
       • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/09 Comparison and Logical Operators.ipynb">Comparison and Logical Operators</a><br>
-      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/10 String Operators and Functions.ipynb">String Operators and Functions.ipynb</a><br>
+      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/10 String Operators and Functions.ipynb">String Operators and Functions</a><br>
+      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/mathematical_and_Aggregate_funtions.ipynb">Mathematical and Aggregate Functions</a><br>
      </details>
      <details>
           <summary> <h4>Grouping and Joining</h4></summary>
