@@ -486,3 +486,8 @@
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/case_study_1.ipynb">Case Study 1 on Dataset</a><br>
      </details>
 </details>
+     <details>
+          <summary> <h4>Sub Queries and Window Function</h4></summary>
+       	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Subqueries.ipynb">Subqueries and its Types and Usecase</a><br>
+    </details>
+</details>
