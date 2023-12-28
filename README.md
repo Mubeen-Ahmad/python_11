@@ -461,7 +461,7 @@
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Cardinality of Relationships.ipynb">Cardinality of Relationships Short Introduction</a>
       </details>
       <details>
-     <summary> <h4>DDL Commands</h4></summary>
+     <summary> <h4>DDL and DMLCommands</h4></summary>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Sql_DDL.ipynb">DDL Commands and Constrains</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL constrain keyword.ipynb">DDL Commands , Constrains keyword , Relation Ship and Referential Actions</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL Alter Command.ipynb">DDL ALTER Commands</a><br> 
@@ -488,6 +488,7 @@
 <details>
           <summary> <h4>Sub Queries and Window Function</h4></summary>
        	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Subqueries.ipynb">Subqueries and its Types and Usecase</a><br>
+       	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Subquery_questions.ipynb">Subqueries Questions</a><br>
 </details>
 </details>
 
