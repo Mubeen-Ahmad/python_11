@@ -486,7 +486,7 @@
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/case_study_1.ipynb">Case Study 1 on Dataset</a><br>
      </details>
 <details>
-          <summary> <h4>Sub Queries and Conditional Expressions and Window Function with Aggregate</h4></summary>
+          <summary> <h4>Sub Queries , Conditional Expressions and Window Function with Aggregate</h4></summary>
        	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Subqueries.ipynb">Subqueries and its Types and Usecase</a><br>
        	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Subquery_questions.ipynb">Subqueries Questions</a><br>
        	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Conditional.ipynb">Conditional Expressions</a><br>
