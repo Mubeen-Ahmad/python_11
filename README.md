@@ -492,6 +492,7 @@
        	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Conditional.ipynb">Conditional Expressions</a><br>
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/window_functions.ipynb">Window Functions with Aggregate Part 1</a><br>
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/frame.ipynb">Window Functions Frames Row Mode Part 2</a><br>
+       • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/range_mode.ipynb">Frames Range Mode</a><br>
 
 </details>
 </details>
