@@ -488,11 +488,12 @@
 <details>
           <summary> <h4>Sub Queries , Conditional Expressions and Window Function with Aggregate</h4></summary>
        	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Subqueries.ipynb">Subqueries and its Types and Usecase</a><br>
-       	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Subquery_questions.ipynb">Subqueries Questions</a><br>
-       	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Conditional.ipynb">Conditional Expressions</a><br>
+       	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Subquery_questions.ipynb">Subqueries Questions</a><br><br>
+       	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Conditional.ipynb">Conditional Expressions</a><br><br>
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/window_functions.ipynb">Window Functions with Aggregate Part 1</a><br>
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/frame.ipynb">Window Functions Frames Row Mode Part 2</a><br>
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/range_mode.ipynb">Frames Range Mode</a><br>
+       • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/frames_questions.ipynb">Frames Questions</a><br>
 
 </details>
 </details>
