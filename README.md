@@ -494,7 +494,7 @@
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/frame.ipynb">Window Functions Frames Row Mode Part 2</a><br>
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/range_mode.ipynb">Frames Range Mode</a><br>
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/frames_questions.ipynb">Frames Questions</a><br><br>
-       • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/windows_function_part2.ipynb">Window Functions with Useful Math and Stats Part 1</a><br>
+       • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/windows_function_part2.ipynb">Window Functions with Useful Math and Stats Terms Part 1</a><br>
 
 </details>
 </details>
