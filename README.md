@@ -497,5 +497,9 @@
        • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/windows_function_part2.ipynb">Window Functions with Mathematics quantity</a><br>
 
 </details>
+<details>
+          <summary> <h4>DataTypes</h4></summary>
+     	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Strings_datatypes.ipynb">String Data Types , Wildcards and String Functions</a><br>
+</details>
 </details>
 
