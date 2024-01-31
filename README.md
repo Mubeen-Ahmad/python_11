@@ -500,6 +500,7 @@
 <details>
           <summary> <h4>DataTypes</h4></summary>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Strings_datatypes.ipynb">String Data Types , Wildcards and String Functions</a><br>
+     	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/data_cleaning.ipynb">Data Cleaning</a><br>
 </details>
 </details>
 
