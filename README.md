@@ -455,7 +455,7 @@
      <details>
      <summary> <h4>Basic</h4></summary>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/b1.ipynb">Short Introduction</a><br>
-     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/b2.ipynb">Connect python with database Xampp</a><br>
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/b2.ipynb">Connect python with database Xampp And Mysql Workbench</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/dbs_db_tables.ipynb">Databases Vs Database Vs Table and create database table insert value</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Database_Keys.ipynb">Databases Keys Short Introduction</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Cardinality of Relationships.ipynb">Cardinality of Relationships Short Introduction</a>
@@ -466,7 +466,7 @@
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL constrain keyword.ipynb">DDL Commands , Constrains keyword , Relation Ship and Referential Actions</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL Alter Command.ipynb">DDL ALTER Commands</a><br> 
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML.ipynb">DML Commands Insert,Update,Delete</a><br>   
-     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML select.ipynb">DML Commands Select, and Load csv_data python to sql</a><br>   
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML select.ipynb">DML Commands Select, and Load csv_data python to sql and IPython SQL extension </a><br>   
      </details>
       <details>
           <summary> <h4>Operators And Bulit-In Functions</h4></summary>
