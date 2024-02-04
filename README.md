@@ -501,6 +501,7 @@
           <summary> <h4>Variables, Functions, Procedures  Dynamic Sql And Loops</h4></summary>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/variables.ipynb">Variables</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/functions_and_procedure.ipynb">Function and Procedure</a><br>
+     	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/dynamic_sql.ipynb">Static VS Dynamic Query</a><br>
 
 </details>
 
