@@ -498,12 +498,13 @@
 
 </details>
 <details>
-          <summary> <h4>Variables, Functions, Procedures  Dynamic Sql And Loops</h4></summary>
+          <summary> <h4>Variables, Functions, Procedures  Dynamic Sql And Iteration Statements</h4></summary>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/variables.ipynb">Variables</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/functions_and_procedure.ipynb">Function and Procedure</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/dynamic_sql.ipynb">Static VS Dynamic Query</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/if_elseif_else.ipynb">IF, ELSEIF and ELSE with Functions and Procedures</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/loops.ipynb">Loops</a><br>
+     	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/cursor.ipynb">Cursor</a><br>
 
 </details>
 
