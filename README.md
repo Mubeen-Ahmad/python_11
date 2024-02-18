@@ -505,6 +505,7 @@
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/if_elseif_else.ipynb">IF, ELSEIF and ELSE with Functions and Procedures</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/loops.ipynb">Loops</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/cursor.ipynb">Cursor</a><br>
+     	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/handler.ipynb">Handler</a><br>
 
 </details>
 
