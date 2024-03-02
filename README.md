@@ -467,6 +467,7 @@
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL Alter Command.ipynb">DDL ALTER Commands</a><br> 
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML.ipynb">DML Commands Insert,Update,Delete</a><br>   
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML select.ipynb">DML Commands Select, and Load csv_data python to sql and IPython SQL extension </a><br>   
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/load_and_Export_mysql.ipynb">Export and Import data mysql without python</a><br>   
      </details>
       <details>
           <summary> <h4>Operators And Bulit-In Functions</h4></summary>
