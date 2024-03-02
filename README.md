@@ -464,7 +464,7 @@
      <summary> <h4>DDL and DMLCommands</h4></summary>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Sql_DDL.ipynb">DDL Commands and Constrains</a><br>
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL constrain keyword.ipynb">DDL Commands , Constrains keyword , Relation Ship and Referential Actions</a><br>
-     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL Alter Command.ipynb">DDL ALTER Commands</a><br> 
+     • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DDL Alter Command.ipynb">DDL ALTER Commands and Rename, Lock , Unlock Tables</a><br> 
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML.ipynb">DML Commands Insert,Update,Delete,Replace</a><br>   
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DML select.ipynb">DML Commands Select, and Load csv_data python to sql and IPython SQL extension </a><br>   
      • <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/load_and_Export_mysql.ipynb">Export and Import data mysql without python</a><br>   
