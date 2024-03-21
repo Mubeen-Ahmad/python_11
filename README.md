@@ -509,6 +509,7 @@
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/handler.ipynb">Handler</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/DIAGNOSTICS.ipynb">DIAGNOSTICS Statment, Conditional Handler, Resignal and Signal</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/CTE.ipynb">Common Table Expressions</a><br>
+     	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Trigers.ipynb">Triggers</a><br>
 </details>
 <details>
           <summary> <h4>DataTypes</h4></summary>
