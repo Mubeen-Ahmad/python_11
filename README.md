@@ -511,6 +511,7 @@
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/CTE.ipynb">Common Table Expressions</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/Trigers.ipynb">Triggers</a><br>
      	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/events.ipynb">Events</a><br>
+     	• <a href="https://github.com/Mubeen-Ahmad/python_11/blob/main/sql/index.ipynb">Index</a><br>
 </details>
 <details>
           <summary> <h4>DataTypes</h4></summary>
